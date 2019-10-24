@@ -21,6 +21,8 @@ class QuestionCommand extends Command {
             for (var i=0; i<this.answers.length; i++) {
                 if (userInput===this.answers[i].text) {
                     userInput = "";
+                    if (this.answers[i].block==="null")
+                        return;
                     gameLayer.loadBlockFile(this.answers[i].block);
                     return;
                 }

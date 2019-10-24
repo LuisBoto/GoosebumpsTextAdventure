@@ -1,5 +1,5 @@
 0
-T-Welcome to Give yourself Goosebumps: TypeText Adventure
-Q-Do you wish to enter a BlockID? (continue the story) > Y_0/N_0
+T-Welcome to Give yourself Goosebumps: Text Adventure
+Q-Do you wish to enter a BlockID? (continue the story) > Y_S/N_null
 T-Thanks for playing!
 

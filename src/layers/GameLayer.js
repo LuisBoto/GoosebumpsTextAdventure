@@ -80,6 +80,10 @@ class GameLayer extends Layer {
                         var command = new QuestionCommand(line.split("-")[1], null);
                         block.addCommand(command);
                         break;
+                    case "L": //Plain text print command
+                        var command = new LoadCommand(line.split("-")[1], null);
+                        block.addCommand(command);
+                        break;
                 }
             }
             this.currentBlock = block;
