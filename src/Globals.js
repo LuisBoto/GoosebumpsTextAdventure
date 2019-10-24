@@ -3,6 +3,7 @@ var inputs = {}; // tipos
 inputs.keyboard = 1;
 
 var userInput;
+var awaitingInput = false;
 
 var pressType = {}; // tipos
 pressType.inicio = 1;

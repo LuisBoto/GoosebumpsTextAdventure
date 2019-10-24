@@ -13,7 +13,7 @@ class GameLayer extends Layer {
         this.currentBlock = null;
         this.texts = [];
         this.advance = false;
-        this.loadBlockFile("res/storyBlocks/block0.txt");
+        this.loadBlockFile(0);
     }
 
     update() {
@@ -32,13 +32,18 @@ class GameLayer extends Layer {
 
     printText(value) {
         if (this.yText > 1080*0.9) {
-            this.texts = [];
+            this.clearText();
         }
         this.texts.push(new Text(value, this.xText, this.yText));
         this.yText = this.yText + 20;
     }
 
-    loadBlockFile(route) {
+    clearText() {
+        this.texts = [];
+    }
+
+    loadBlockFile(blockNumber) {
+        route = blockRoute+blockNumber+blockExtension;
         var file = new XMLHttpRequest();
         file.open("GET", route, false);
 
@@ -51,13 +56,14 @@ class GameLayer extends Layer {
                 var line = lines[i];
                 switch (line.split("-")[0]) {
                     case "T": //Plain text print command
-                        console.log(line.split("-")[1]);
                         var command = new TextCommand(line.split("-")[1], null);
                         block.addCommand(command);
                         break;
                 }
             }
             this.currentBlock = block;
+            this.clearText();
+            this.printText("BlockID: "+block.id);
         }.bind(this);
 
         file.send(null);
