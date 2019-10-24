@@ -6,7 +6,6 @@ class GameLayer extends Layer {
     }
 
     initiate() {
-        //reproducirMusica();
         this.background = new Model(images.backgroud, 1920*0.5, 1080*0.5);
         this.xText = 1920*0.1;
         this.yText = 1080*0.1;
@@ -18,12 +17,21 @@ class GameLayer extends Layer {
 
     update() {
         if (this.advance) { //Enter must have been pressed to update game
-            if (awaitingInput)
+            if (awaitingInput) { //Current command must handle current user input
                 this.currentBlock.repeat(this);
-            else
+                userInput = "";
+            }
+            else //Simply advance to next command in line
                 this.currentBlock.update(this);
             this.advance = false;
         }
+    }
+
+    awaitInput() {
+        this.inputText = new Text(userInput, this.xText, this.yText);
+        this.texts.push(this.inputText);
+        awaitingInput = true;
+        this.yText = this.yText + 20;
     }
 
     draw() {
@@ -31,18 +39,19 @@ class GameLayer extends Layer {
         for (var i=0; i<this.texts.length; i++) {
             this.texts[i].draw();
         }
-        if (awaitingInput) {
+        if (awaitingInput) { //Update user's input text
+            this.texts.pop()
             this.inputText = new Text(userInput, this.xText, this.yText);
-            this.inputText.draw();
+            this.texts.push(this.inputText);
         }
     }
 
     printText(value) {
+        this.yText = this.yText + 20;
         if (this.yText > 1080*0.9) {
             this.clearText();
         }
         this.texts.push(new TypeText(value, this.xText, this.yText));
-        this.yText = this.yText + 20;
     }
 
     clearText() {
@@ -88,6 +97,5 @@ class GameLayer extends Layer {
             this.advance = true;
             controls.enter = false;
         }
-
     }
 }

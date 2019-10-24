@@ -18,7 +18,6 @@ class QuestionCommand extends Command {
     execute(gameLayer) {
         if (awaitingInput) {
             awaitingInput = false;
-            console.log(userInput);
             for (var i=0; i<this.answers.length; i++) {
                 if (userInput===this.answers[i].text) {
                     userInput = "";
@@ -36,7 +35,6 @@ class QuestionCommand extends Command {
                 options=options+this.answers[i].text+"/"
         }
         gameLayer.printText(options);
-        awaitingInput = true;
-        userInput = "";
+        gameLayer.awaitInput();
     }
 }
