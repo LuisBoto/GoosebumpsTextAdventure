@@ -2,7 +2,7 @@ var tocaTecho = false;
 var inputs = {}; // tipos
 inputs.keyboard = 1;
 
-var userInput;
+var userInput = "";
 var awaitingInput = false;
 
 var pressType = {}; // tipos

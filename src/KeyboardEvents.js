@@ -15,6 +15,11 @@ function onKeyDown( event) {
                 break;
         }
 
+        if (awaitingInput && event.keyCode == 32)
+            userInput = userInput+String.fromCharCode(event.keyCode);
+        if (awaitingInput && event.keyCode>=65 && event.keyCode <=90)
+            userInput = userInput+String.fromCharCode(event.keyCode);
+
     }
 
 }

@@ -2,20 +2,31 @@ class QuestionCommand extends Command {
 
     constructor (value, f) {
         super(f);
-        this.question = value.split("-")[0];
+        this.question = value.split(">")[0];
         this.answers = [];
         //Questions come in the following format
-        //Question > Answer1-Block1/Answer2-Block2/AnswerN-BlockN
+        //Question > Answer1_Block1/Answer2_Block2/AnswerN_BlockN
         var answers = value.split(">")[1].split("/");
         for (var i=0; i<answers.length; i++) {
             var a = {};
-            a.text = answers[i].split("-")[0];
-            a.block = answers[i].split("-")[1];
+            a.text = answers[i].split("_")[0].trim();
+            a.block = answers[i].split("_")[1].trim();
             this.answers.push(a);
         }
     }
 
     execute(gameLayer) {
+        if (awaitingInput) {
+            awaitingInput = false;
+            console.log(userInput);
+            for (var i=0; i<this.answers.length; i++) {
+                if (userInput===this.answers[i].text) {
+                    userInput = "";
+                    gameLayer.loadBlockFile(this.answers[i].block);
+                    return;
+                }
+            }
+        }
         gameLayer.printText(this.question);
         var options = "(";
         for (var i=0; i<this.answers.length; i++) {
@@ -26,14 +37,6 @@ class QuestionCommand extends Command {
         }
         gameLayer.printText(options);
         awaitingInput = true;
-        while(awaitingInput)
-            gameLayer.processControls();
-        for (var i=0; i<this.answers.length; i++) {
-            if (userInput===this.answers[i].text) {
-                gameLayer.loadBlockFile(this.answers[i].block);
-                return;
-            }
-        }
-        this.execute(gameLayer);
+        userInput = "";
     }
 }

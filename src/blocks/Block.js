@@ -19,4 +19,8 @@ class Block {
             this.counter++;
         }
     }
+
+    repeat(gameLayer) {
+        this.commands[this.counter-1].execute(gameLayer);
+    }
 }

@@ -17,8 +17,11 @@ class GameLayer extends Layer {
     }
 
     update() {
-        if (this.advance) {
-            this.currentBlock.update(this);
+        if (this.advance) { //Enter must have been pressed to update game
+            if (awaitingInput)
+                this.currentBlock.repeat(this);
+            else
+                this.currentBlock.update(this);
             this.advance = false;
         }
     }
@@ -28,22 +31,27 @@ class GameLayer extends Layer {
         for (var i=0; i<this.texts.length; i++) {
             this.texts[i].draw();
         }
+        if (awaitingInput) {
+            this.inputText = new Text(userInput, this.xText, this.yText);
+            this.inputText.draw();
+        }
     }
 
     printText(value) {
         if (this.yText > 1080*0.9) {
             this.clearText();
         }
-        this.texts.push(new Text(value, this.xText, this.yText));
+        this.texts.push(new TypeText(value, this.xText, this.yText));
         this.yText = this.yText + 20;
     }
 
     clearText() {
         this.texts = [];
+        this.yText = 1080*0.1;
     }
 
     loadBlockFile(blockNumber) {
-        route = blockRoute+blockNumber+blockExtension;
+        var route = blockRoute+blockNumber+blockExtension;
         var file = new XMLHttpRequest();
         file.open("GET", route, false);
 
@@ -57,6 +65,10 @@ class GameLayer extends Layer {
                 switch (line.split("-")[0]) {
                     case "T": //Plain text print command
                         var command = new TextCommand(line.split("-")[1], null);
+                        block.addCommand(command);
+                        break;
+                    case "Q": //Question command
+                        var command = new QuestionCommand(line.split("-")[1], null);
                         block.addCommand(command);
                         break;
                 }
@@ -76,5 +88,6 @@ class GameLayer extends Layer {
             this.advance = true;
             controls.enter = false;
         }
+
     }
 }
