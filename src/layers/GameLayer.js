@@ -8,8 +8,8 @@ class GameLayer extends Layer {
     initiate() {
         //reproducirMusica();
         this.background = new Model(images.backgroud, 1920*0.5, 1080*0.5);
-        this.xText = 1920*0.25;
-        this.yText = 1080*0.2;
+        this.xText = 1920*0.1;
+        this.yText = 1080*0.1;
         this.currentBlock = null;
         this.texts = [];
         this.advance = false;
@@ -18,7 +18,7 @@ class GameLayer extends Layer {
 
     update() {
         if (this.advance) {
-            this.currentBlock.update();
+            this.currentBlock.update(this);
             this.advance = false;
         }
     }
@@ -52,9 +52,7 @@ class GameLayer extends Layer {
                 switch (line.split("-")[0]) {
                     case "T": //Plain text print command
                         console.log(line.split("-")[1]);
-                        var command = new Command(function printText() {
-                            this.printText(line.split("-")[1]);
-                        }.bind(this))
+                        var command = new TextCommand(line.split("-")[1], null);
                         block.addCommand(command);
                         break;
                 }

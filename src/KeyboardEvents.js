@@ -12,6 +12,7 @@ function onKeyDown( event) {
         switch ( event.keyCode ){
             case 13:
                 controls.enter = true;
+                break;
         }
 
     }

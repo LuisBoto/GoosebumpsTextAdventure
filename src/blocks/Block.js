@@ -13,9 +13,9 @@ class Block {
         this.commands.push(command);
     }
 
-    update() {
+    update(gameLayer) {
         if (this.counter<this.commands.length) {
-            this.commands[this.counter].execute();
+            this.commands[this.counter].execute(gameLayer);
             this.counter++;
         }
     }
