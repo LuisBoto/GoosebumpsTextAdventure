@@ -11,10 +11,10 @@ class Text {
     }
 
     draw (){
-        contexto.font = "30px Monospace";
-        contexto.fillStyle = "white";
-        contexto.textAlign = "left";
-        contexto.fillText(this.value, this.x, this.y);
+        context.font = "20px Monospace";
+        context.fillStyle = "white";
+        context.textAlign = "left";
+        context.fillText(this.value, this.x, this.y);
     }
 
 }

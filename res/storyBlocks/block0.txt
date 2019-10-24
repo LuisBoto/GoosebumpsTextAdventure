@@ -1,0 +1,5 @@
+0
+T-Welcome to Give yourself Goosebumps: Text Adventure
+P-Do you wish to enter a BlockID? (continue the story) - [Y-0/N-1]
+T-Thanks for playing!
+

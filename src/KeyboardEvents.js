@@ -10,8 +10,8 @@ function onKeyDown( event) {
     if ( pos == -1 ) {
         keys.push(event.keyCode);
         switch ( event.keyCode ){
-            case 1:
-                //Write keycode to screentext...
+            case 13:
+                controls.enter = true;
         }
 
     }

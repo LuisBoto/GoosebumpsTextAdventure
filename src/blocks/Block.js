@@ -14,8 +14,8 @@ class Block {
     }
 
     update() {
-        if (counter<this.commands.length) {
-            this.commands[counter].execute();
+        if (this.counter<this.commands.length) {
+            this.commands[this.counter].execute();
             this.counter++;
         }
     }
