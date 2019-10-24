@@ -9,9 +9,6 @@ for (var i=65; i<91; i++) {
 for (var i=48; i<58; i++) {
     keycodes.push(i);
 }
-for (var i=96; i<106; i++) {
-    keycodes.push(i);
-}
 keycodes.push(32);
 
 var userInput = "";

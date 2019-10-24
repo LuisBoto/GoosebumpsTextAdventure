@@ -61,7 +61,12 @@ class GameLayer extends Layer {
 
     loadBlockFile(blockNumber) {
         var route = blockRoute+blockNumber+blockExtension;
+        if (!this.urlExists(route)){
+            this.printText("Please input a valid BlockID.");
+            return;
+        }
         var file = new XMLHttpRequest();
+
         file.open("GET", route, false);
 
         file.onreadystatechange = function () {
@@ -94,7 +99,13 @@ class GameLayer extends Layer {
         file.send(null);
     }
 
-
+    urlExists(url)
+    {
+        var http = new XMLHttpRequest();
+        http.open('HEAD', url, false);
+        http.send();
+        return http.status!=404;
+    }
 
     processControls() {
         if (controls.enter) {

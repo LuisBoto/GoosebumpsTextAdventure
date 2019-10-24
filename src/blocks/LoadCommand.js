@@ -6,13 +6,13 @@ class LoadCommand extends Command {
     }
 
     execute(gameLayer) {
-        if (awaitingInput) {
+        if (awaitingInput && userInput!="") {
             awaitingInput = false;
             var block = userInput.toString();
             userInput = "";
             gameLayer.loadBlockFile(block);
-            return;
         }
+
         gameLayer.printText(this.value);
         gameLayer.awaitInput();
     }
