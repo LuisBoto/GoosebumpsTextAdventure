@@ -1,0 +1,14 @@
+2
+T=“Let’s bike over to Bennet’s Field and watch them set up the carnival!”
+T=“I don’t know,” you answer. “It’s getting dark, and Mom said I have to be in by nine.”
+T=“It’s only a quick bike ride,” Brad says. “Are you some kind of wimp?”
+T=Brad calling you a wimp? You can’t believe it!
+T=“Okay. Okay,” you agree. “But if it’s as bad as last year, there won’t be much to see. 
+T=Don’t you remember the main attraction?” you remind them. 
+T=“The ride they called Terror Track? It turned out to be a baby choo-choo train that circled around and around and around.”
+T=It doesn’t matter what you say. Patty’s made up her mind. You’re going to ride over to the carnival.
+T=A hot, humid breeze blows in your face as you pedal along. Patty’s in the lead. No surprise. 
+T=And Brad’s puffing behind you. It’s dark by the time you reach Bennet’s Field.
+T=You and your friends drop your bikes in the grass and race across the moonlit field, 
+T=toward the huge wooden fence that surrounds the carnival.
+C-3

@@ -1,5 +1,5 @@
 S
-L-Please enter the BlockID of the section to load:
+L=Please enter the BlockID of the section to load:
 
 
 

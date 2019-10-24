@@ -8,7 +8,7 @@ class Command {
     }
 
     execute(gameLayer) {
-        this.fun();
+        this.fun(gameLayer);
     }
 
 }

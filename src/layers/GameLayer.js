@@ -31,7 +31,7 @@ class GameLayer extends Layer {
         this.inputText = new Text(userInput, this.xText, this.yText);
         this.texts.push(this.inputText);
         awaitingInput = true;
-        this.yText = this.yText + 20;
+        this.newLine();
     }
 
     draw() {
@@ -47,11 +47,15 @@ class GameLayer extends Layer {
     }
 
     printText(value) {
-        this.yText = this.yText + 20;
+        this.newLine();
         if (this.yText > 1080*0.9) {
             this.clearText();
         }
         this.texts.push(new TypeText(value, this.xText, this.yText));
+    }
+
+    newLine() {
+        this.yText = this.yText + 25;
     }
 
     clearText() {
@@ -71,22 +75,28 @@ class GameLayer extends Layer {
 
         file.onreadystatechange = function () {
             var block;
+            var separator = "=";
             var text = file.responseText;
             var lines = text.split('\n');
             block = new Block(lines[0], []);
             for (var i = 1; i < lines.length; i++) {
                 var line = lines[i];
-                switch (line.split("-")[0]) {
+                switch (line.split(separator)[0]) {
                     case "T": //Plain text print command
-                        var command = new TextCommand(line.split("-")[1], null);
+                        var command = new TextCommand(line.split(separator)[1], null);
                         block.addCommand(command);
                         break;
                     case "Q": //Question command
-                        var command = new QuestionCommand(line.split("-")[1], null);
+                        var command = new QuestionCommand(line.split(separator)[1], null);
                         block.addCommand(command);
                         break;
                     case "L": //Plain text print command
-                        var command = new LoadCommand(line.split("-")[1], null);
+                        var command = new LoadCommand(line.split(separator)[1], null);
+                        block.addCommand(command);
+                        break;
+                    case "C":
+                        var b = line.split(separator)[1];
+                        var command = new Command(function f(gameLayer) {gameLayer.loadBlockFile(b.toString())});
                         block.addCommand(command);
                         break;
                 }

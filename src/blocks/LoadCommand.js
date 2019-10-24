@@ -11,8 +11,8 @@ class LoadCommand extends Command {
             var block = userInput.toString();
             userInput = "";
             gameLayer.loadBlockFile(block);
+            return;
         }
-
         gameLayer.printText(this.value);
         gameLayer.awaitInput();
     }
