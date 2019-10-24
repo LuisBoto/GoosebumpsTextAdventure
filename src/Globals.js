@@ -1,6 +1,8 @@
 var tocaTecho = false;
 var inputs = {}; // tipos
-inputs.teclado = 1;
+inputs.keyboard = 1;
+
+var userInput;
 
 var pressType = {}; // tipos
 pressType.inicio = 1;

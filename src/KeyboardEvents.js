@@ -4,7 +4,7 @@ window.addEventListener('keydown', onKeyDown, false);
 window.addEventListener('keyup', onKeyUp, false);
 
 function onKeyDown( event) {
-    input = inputs.teclado;
+    input = inputs.keyboard;
 
     var pos = keys.indexOf(event.keyCode);
     if ( pos == -1 ) {
