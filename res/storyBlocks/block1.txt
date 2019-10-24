@@ -14,4 +14,4 @@ T=“You’re so boring, Brad,” Patty complains.
 T=Whenever Patty complains, her freckles really pop out. 
 T=Now there are about a million of them spread across her face.
 T=“Hey! I know what we should do!” Patty suddenly bursts out.
-C-2
+C=2

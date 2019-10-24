@@ -11,4 +11,4 @@ T=A hot, humid breeze blows in your face as you pedal along. Patty’s in the le
 T=And Brad’s puffing behind you. It’s dark by the time you reach Bennet’s Field.
 T=You and your friends drop your bikes in the grass and race across the moonlit field, 
 T=toward the huge wooden fence that surrounds the carnival.
-C-3
+C=3
