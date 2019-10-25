@@ -2,8 +2,8 @@ class MusicCommand extends Command {
 
     constructor (value, f) {
         super(f);
-        this.question = value.split(">")[0];
-        this.answers = value.split(">")[1];
+        this.question = value.split(">")[0].trim();
+        this.answers = value.split(">")[1].trim();
     }
 
     execute(gameLayer) {
