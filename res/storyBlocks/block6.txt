@@ -1,0 +1,19 @@
+T=“Let’s do it!” you say to your friends. “Let’s climb the fence!” 
+
+T=Patty is halfway up before you finish speaking. You let Brad go next. You’re last. 
+
+T=It’s a hard climb up. There’s really no place on the fence to get a good grip. 
+T=But you make it to the top, swing your legs over, and tumble down. 
+T=You land on the grass. You’re inside! 
+
+T=You and your friends gaze around. It’s pretty dark — the only light comes from torches. 
+T=At first the carnival looks the same as it always does. Dinky rides. Hot dog wagons. 
+T=Then the lights start to flicker on in every corner of the field — the rides start to move.
+T=It’s as if the whole place is magically coming to life. 
+
+T=“Hey! Look at that giant roller coaster!” you exclaim, pointing up ahead. 
+T=“They never had a roller coaster before!” 
+
+T=“Yeah,” Brad agrees. “And the whole place is a lot bigger than last year!” 
+T=“This is awesome!” Patty says as she sprints toward the rides. 
+C=7

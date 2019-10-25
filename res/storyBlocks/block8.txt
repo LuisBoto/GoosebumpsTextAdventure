@@ -1,0 +1,26 @@
+T=You wander over to the Wheel of Chance and immediately notice two strange things. 
+
+T=First, you read the sign on the booth. It says “Wheel of No Chance.” 
+T=Then you hear the barker’s voice calling, “Step right up!” But there’s no one there. 
+
+T=No one but a green-and-yellow parrot. 
+
+T=“Excuse me,” you say, hoping someone will answer. “Is this game open?” 
+
+T=“No, I’m standing by this wheel for my health,” the parrot cracks. 
+T=“Now, do you want to spin or what?” 
+
+T=The parrot is obviously annoyed. “Mammals,” he mutters. 
+T=“Can’t live with them, can’t live without them.” 
+
+T=You steal a glance around. Maybe you should skip this game. 
+T=But Big A1 sneaks up behind you. 
+
+T=“Spin,” he says. “You must earn enough points to win.” 
+
+T=“But how will I know if I have enough points?” you ask. 
+
+T=“Spin!” It’s his final word. 
+
+
+C=9

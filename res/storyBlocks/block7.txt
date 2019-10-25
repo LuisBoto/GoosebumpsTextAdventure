@@ -1,0 +1,29 @@
+
+T=You and Brad take off after Patty. You all stop in front of the roller coaster. 
+
+T=“Wow!” Patty says as she gazes up at it. “It’s like a rocket to outer space!” 
+
+T=Beyond the roller coaster, you spy a castle surrounded by a moat. 
+T=And a spooky-looking haunted house sitting high atop a hill. 
+
+T=“These are the coolest rides I’ve ever seen!” you say. 
+T=“They still have that dumb choo-choo train over there,” you point out, 
+T=“but we could ride this stuff all night and never go near it!” 
+
+T=Patty grabs your arm and tugs you over to the other side of the carnival — to the midway. 
+T=Brad races after you. 
+
+T=“Hey! Where are all those dinky wooden booths from last year?” 
+T=you ask as you gawk at the amazing games of chance. 
+
+T=They’re gone. And in their place are giant video games and huge spinning wheels, 
+T=studded with hundreds of blinking colored lights! 
+
+T=“Get a load of that!” Brad suddenly cries out. 
+
+T=You and Patty spin around. 
+
+T=You can’t believe what you see! 
+
+
+C=87
