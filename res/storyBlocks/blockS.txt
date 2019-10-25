@@ -1,4 +1,3 @@
-S
 L=Please enter the BlockID of the section to load:
 
 

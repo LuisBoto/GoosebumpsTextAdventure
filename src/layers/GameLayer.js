@@ -85,8 +85,8 @@ class GameLayer extends Layer {
             var separator = "=";
             var text = file.responseText;
             var lines = text.split('\n');
-            block = new Block(lines[0], []);
-            for (var i = 1; i < lines.length; i++) {
+            block = new Block(blockNumber, []);
+            for (var i = 0; i < lines.length; i++) {
                 var line = lines[i];
                 switch (line.split(separator)[0]) {
                     case "T": //Plain text print command

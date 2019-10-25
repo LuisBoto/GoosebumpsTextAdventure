@@ -1,4 +1,3 @@
-0
 T=Welcome to Give yourself Goosebumps: Text Adventure
 Q=Do you wish to enter a BlockID? (continue the story) > Y_S/N_null
 Q=Ready to start? > Y_1/N_0

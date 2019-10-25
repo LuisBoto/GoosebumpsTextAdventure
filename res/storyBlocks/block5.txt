@@ -1,0 +1,21 @@
+T=“Come on, run!” you yell to Patty and Brad as you spin around. 
+T=“There’s got to be another way out!” 
+
+T=Big A1 blows a whistle. Its shrill blast hurts your ears. 
+T=He blows it again and, suddenly, dozens and dozens of carnival people appear out of nowhere. 
+T=But they don’t look the way they did before. 
+
+T=Some have green flesh. Some are deathly white. 
+T=Their rotting skin hangs from their bones. 
+T=Above their sunken cheekbones, their eyes glow an eerie yellow. 
+
+T=You watch in horror as more and more of them appear. 
+
+T=What should you do? Your legs won’t budge. You can’t think clearly. 
+T=You’re terrified! You stand there — frozen — in a trance. 
+
+T=But Brad breaks the spell when he screams out, 
+T=“They’re ghosts! That’s why they’re wearing those old-fashioned clothes. They’re dead!” 
+
+T=“Watch out! Over there!” Patty yells. “That — that ghost... It’s coming right at us. Run!”
+C=127 

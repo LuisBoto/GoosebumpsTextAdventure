@@ -1,4 +1,3 @@
-1
 T=“What do you want to do?”
 T=“I don’t know, Patty. What do you want to do?”
 T=“Not fair, Brad. I asked you first.”

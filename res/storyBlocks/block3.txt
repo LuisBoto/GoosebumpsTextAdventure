@@ -1,0 +1,21 @@
+T=As you reach the carnival entrance, you hear music coming from inside. 
+T=Not the usual corny organ stuff they always play. But some really strange music. 
+T=It sounds familiar and totally new at the same time. 
+
+T=Brad stretches his neck to try to peer over the fence. But no luck. 
+T=The fence is way too high. 
+
+T=Patty jiggles the padlock on the gate. It’s sealed shut. 
+
+T=“I guess we’ll have to wait until tomorrow night when the carnival opens,” Brad says. 
+
+T=“No way,” Patty says. “Let’s climb the fence. Now!” 
+
+T=“Are you crazy?” Brad says. “We’ll get caught!” 
+
+T=“Come on. There’s probably no one in there,” Patty replies. 
+
+T=Your friends turn to you to cast the deciding vote. You glance at your watch. 
+T=It’s almost 9:00 p.m. If you’re going to get home in time, you should start back now. 
+
+Q=What are you going to do? > Go home_10/Climb Fence_6

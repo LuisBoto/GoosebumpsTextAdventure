@@ -1,4 +1,3 @@
-2
 T=“Let’s bike over to Bennet’s Field and watch them set up the carnival!”
 T=“I don’t know,” you answer. “It’s getting dark, and Mom said I have to be in by nine.”
 T=“It’s only a quick bike ride,” Brad says. “Are you some kind of wimp?”

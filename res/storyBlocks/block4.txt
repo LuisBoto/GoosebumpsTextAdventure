@@ -1,0 +1,26 @@
+T=“Wh-what do you mean?” Brad asks, trembling all over. 
+
+T=“I just had an idea. A great idea,” the man replies. 
+T=“I want you kids to stay and try out the rides before the grand opening tomorrow.” 
+
+T=Patty’s eyes open wide. “Cool!” she says. 
+
+T=“Are you sure it’s all right with the owner?” you ask. 
+
+T=“I’m Big Al, the manager. And what I say around here goes.” 
+
+T=Big Al digs around in his checkered jacket and pulls out three maps. 
+T=He hands one to each of you. 
+
+T=“Study them carefully,” he says. “If you have any questions, ask them now.” 
+
+T=Your eyes fall upon the map. You have a question. 
+T=But when you gaze up, Big Al is gone. He’s vanished! 
+
+T=“A whole carnival to ourselves!” Patty exclaims. “Where should we start?” 
+
+T=You stare down at your map once again. You notice that the carnival is split in half. 
+T=On one side are the rides. Tons of them. 
+T=On the other side is the midway, packed with games of chance and the Freak Show. 
+
+Q=What will you try first? > go on the rides_34/check out the midway_77

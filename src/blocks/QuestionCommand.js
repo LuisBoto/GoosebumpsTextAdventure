@@ -19,7 +19,7 @@ class QuestionCommand extends Command {
         if (awaitingInput) {
             awaitingInput = false;
             for (var i=0; i<this.answers.length; i++) {
-                if (userInput===this.answers[i].text) {
+                if (userInput===this.answers[i].text.toUpperCase()) {
                     userInput = "";
                     if (this.answers[i].block==="null")
                         return;
