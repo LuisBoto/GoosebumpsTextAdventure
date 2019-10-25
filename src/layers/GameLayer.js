@@ -11,11 +11,16 @@ class GameLayer extends Layer {
         this.yText = 1080*0.1;
         this.currentBlock = null;
         this.texts = [];
+        this.blockIDtext = new Text("", 1920*0.5, 1080*0.08);
         this.advance = false;
         this.loadBlockFile(0);
     }
 
     update() {
+        //First command on block will be executed without user input
+        if (this.currentBlock!=null && this.currentBlock.counter<=0)
+            this.currentBlock.update(this);
+
         if (this.advance) { //Enter must have been pressed to update game
             if (awaitingInput) { //Current command must handle current user input
                 this.currentBlock.repeat(this);
@@ -36,6 +41,7 @@ class GameLayer extends Layer {
 
     draw() {
         this.background.draw();
+        this.blockIDtext.draw();
         for (var i=0; i<this.texts.length; i++) {
             this.texts[i].draw();
         }
@@ -47,15 +53,16 @@ class GameLayer extends Layer {
     }
 
     printText(value) {
+        //TODO: Add line wrap
         this.newLine();
         if (this.yText > 1080*0.9) {
             this.clearText();
         }
-        this.texts.push(new TypeText(value, this.xText, this.yText));
+        this.texts.push(new TypeText("> "+value, this.xText, this.yText));
     }
 
     newLine() {
-        this.yText = this.yText + 25;
+        this.yText = this.yText + 30;
     }
 
     clearText() {
@@ -103,7 +110,7 @@ class GameLayer extends Layer {
             }
             this.currentBlock = block;
             this.clearText();
-            this.printText("BlockID: "+block.id);
+            this.blockIDtext.setValue("BlockID: "+block.id);
         }.bind(this);
 
         file.send(null);

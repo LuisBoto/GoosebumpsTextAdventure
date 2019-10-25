@@ -6,7 +6,7 @@ class Text {
         this.y = y;
     }
 
-    setValue(valor) {
+    setValue(value) {
         this.value = value;
     }
 
