@@ -1,0 +1,6 @@
+T=You’ve decided not to sneak into the carnival? You’re going home instead? 
+T=Well, it’s a good thing Patty usually makes all the decisions. 
+T=Otherwise, you’d never have any fun! And this book would be over before it began! 
+
+T=Go ahead. Take a deep breath. Then go climb the fence. You’re not scared — are you? 
+C=6

@@ -106,6 +106,10 @@ class GameLayer extends Layer {
                         var command = new Command(function f(gameLayer) {gameLayer.loadBlockFile(b.toString())});
                         block.addCommand(command);
                         break;
+                    case "W":
+                        var command = new WheelCommand(line.split(separator)[1],null);
+                        block.addCommand(command);
+                        break;
                 }
             }
             this.currentBlock = block;
