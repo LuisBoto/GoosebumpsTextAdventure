@@ -21,8 +21,10 @@ class QuestionCommand extends Command {
             for (var i=0; i<this.answers.length; i++) {
                 if (userInput===this.answers[i].text.toUpperCase()) {
                     userInput = "";
-                    if (this.answers[i].block==="null")
+                    if (this.answers[i].block==="null") {
+                        controls.enter = true;
                         return;
+                    }
                     gameLayer.loadBlockFile(this.answers[i].block);
                     return;
                 }

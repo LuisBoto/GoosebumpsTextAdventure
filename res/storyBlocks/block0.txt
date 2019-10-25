@@ -1,4 +1,5 @@
 T=Welcome to Give yourself Goosebumps: Text Adventure
+M=Set background music on? >(Y/N)
 Q=Do you wish to enter a BlockID? (continue the story) > Y_S/N_null
 Q=Ready to start? > Y_1/N_0
 
