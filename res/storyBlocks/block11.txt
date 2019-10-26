@@ -1,0 +1,32 @@
+
+T=You’ve decided to help the freaks. As you race down the midway, you spot Brad and Patty. 
+
+T=“Listen, guys,” you tell them, lowering your voice. 
+T=“We’ve got a problem. A big problem.” 
+
+T=You take a deep breath and tell them all about Madame Zeno and the blue card. 
+
+T=“So,” you finish saying, “somebody might need our help in the back of the Freak Show.” 
+
+T=“What’s a freak?” Brad asks nervously. 
+
+T=“Remember the poster we saw when we came in? 
+T=The one with the three-headed man and the lady with the snake body?” you remind him. 
+
+T=Brad bites down on his lip. “Are they really real?” 
+
+T=“Sure they’re real,” Patty chimes in. “I once saw a bearded lady at the circus.” 
+
+T=“I don’t know,” Brad says. “It sounds kind of creepy.” 
+
+T=“Well, Madame Zeno said this was my fate. I’m going to help them — whatever they are. 
+T=Are you guys in?” 
+
+T=“You bet,” Patty answers, her eyes shining with excitement. 
+
+T=“Okay, okay. I’ll go,” Brad mumbles. 
+
+T=“Then let’s hurry!” you exclaim. 
+
+
+C=35

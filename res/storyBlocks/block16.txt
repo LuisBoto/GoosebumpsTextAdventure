@@ -1,0 +1,21 @@
+16
+T=“Hi!” you say to Big Al. “Who are all those people?” 
+
+T=He doesn’t really answer your question. 
+
+T=“Welcome to the Carnival of Horrors,” he says. 
+T=“You must play or pay. We have many games on our midway. You must play two.” 
+T=He practically spits the word must out. 
+T=“If you succeed, you can win prizes. But if you lose, you pay with your life!” 
+
+T=Boy, he’s really laying it on thick, you think. But it’s a pretty cool gimmick. 
+T=“Okay, I’ll play a game. Then I’ve got to go home.” 
+
+T=“No one goes home,” Big Al says, “until they play. You must play two games. And survive.” 
+
+T=“Okay. Okay,” you mutter to yourself. 
+
+T=You glance around the midway at the two closest games. Guess Your Weight on Mars and the Wheel of Chance. 
+T=You have to pick one to start, or you’ll never get out of here. 
+
+Q=What game do you choose? > guess your weight on mars_72/wheel of chance_8

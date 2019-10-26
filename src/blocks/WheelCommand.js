@@ -10,11 +10,11 @@ class WheelCommand extends Command {
         var result = Math.floor(Math.random()*8)+1;
         var target = {};
         if (result==2 || result==4) {
-            target.text = this.value+" -DOUBLE OR NOTHING-";
+            target.text = this.value+" -19: DOUBLE OR NOTHING-";
             target.block = 19;
         }
         if (result==1 || result==5) {
-            target.text = "Wheel lands on an empty panel."
+            target.text = "Wheel lands on an empty panel with just the number 38 on it."
             target.block = 38;
         }
         if(result==3 || result ==6) {
@@ -22,11 +22,11 @@ class WheelCommand extends Command {
             target.block=9;
         }
         if (result==7) {
-            target.text = this.value+" -FREE SPIN-";
+            target.text = this.value+" -49: FREE SPIN-";
             target.block=49;
         }
         if (result==8) {
-            target.text = this.value+" -NO CHANCE-";
+            target.text = this.value+" -15: NO CHANCE-";
             target.block=15;
         }
         gameLayer.printText(target.text);

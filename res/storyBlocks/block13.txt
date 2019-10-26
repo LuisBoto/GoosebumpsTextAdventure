@@ -1,0 +1,23 @@
+T=The room is dark, but all around you, you hear hushed moans. 
+T=“Help us! Help us!” 
+
+T=“We’re in a prison,” Patty says. “And look at the prisoners! They’re weird!” 
+
+T=Patty is right. As your eyes grow accustomed to the darkness, you see cell after cell. 
+T=Each one holds a strange-looking prisoner. 
+T=There’s an enormous fat lady who’s nearly busting out of the bars. 
+T=A giant. A dwarf. A young lady with boa constrictors wrapped around her waist. 
+T=And a woman with a long black beard! 
+
+T=“We’re the freakssss,” the Snake Lady says. 
+T=“Every night when the sssshow endssss, the masssster lockssss ussss up.” 
+
+T=“The master? You mean Big A1 is —” you start to say. 
+
+T=“You must help us!” the giant interrupts. 
+
+T=“Sssssssh,” the Snake Lady says.
+T=“The master’sssss coming — you musssstn’t be here! Go! That way!” 
+T=She points to a door down the hall. 
+
+Q=Will you escape through the door down the hall, or stay and talk to Big Al? > Escape_48/Stay_62

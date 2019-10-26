@@ -1,0 +1,24 @@
+
+T=You reach out slowly and touch the red card. 
+
+T=To your amazement, a 3-D heart magically appears and rises from the flat surface. 
+T=Then it starts to beat! Tha-dump, tha-dump. It must be some fancy optical illusion. 
+T=You lean closer to figure out the trick. 
+
+T=“Yowwwww!” you screech and jerk back to avoid the warm red liquid that nearly squirts in your eye. 
+T=Is it blood? It looks like blood. “Wow! Cool effect,” you say. “How did you do it?” 
+
+T=“Turn over the card,” Madame Zeno orders. “Do it now!” 
+
+T=Madame Zeno really gets into her act. 
+T=Doesn’t she know this is just a game? you think. But you do as you’re told. 
+
+T=Big deal. No weird pictures. No hidden fortunes. 
+T=All you see are the numbers 1,3,2 shimmering in gold script against a midnight background.
+T=“What does it mean?” you ask. 
+
+T=“You will know when the time is right,” the fortune-teller whispers. 
+T=Her voice is so low, you can barely hear her. “It could save your life!” 
+
+
+C=41

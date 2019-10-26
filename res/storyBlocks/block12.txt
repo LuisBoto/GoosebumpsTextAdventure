@@ -1,0 +1,17 @@
+T=You run to the right. “Follow me!” you cry out to Patty and Brad. 
+
+T=You run faster than you’ve ever run in your life. Your sides ache, but you keep on going. 
+
+T=When your chest feels as if it’s about to burst, you finally stop. 
+T=And hear a crash behind you. Then at both sides of you. Then in front of you. Trapping you. 
+
+T=“Welcome to the Reptile’s Petting Zoo,” a deep voice echoes through the darkness. 
+
+T=Reptile’s Petting Zoo? You thought the sign said Reptile Petting Zoo. 
+
+T=“Our alligator has been so lonely,” the deep voice continues. 
+T=“Waiting and waiting — for his new pets to arrive. And here you are — finally.” 
+
+
+T=THE END 
+C=0

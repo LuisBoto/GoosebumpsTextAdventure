@@ -9,7 +9,7 @@ class QuestionCommand extends Command {
         var answers = value.split(">")[1].split("/");
         for (var i=0; i<answers.length; i++) {
             var a = {};
-            a.text = answers[i].split("_")[0].trim();
+            a.text = answers[i].split("_")[0].trim().toUpperCase();
             a.block = answers[i].split("_")[1].trim();
             this.answers.push(a);
         }

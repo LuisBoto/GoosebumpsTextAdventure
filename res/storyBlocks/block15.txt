@@ -1,0 +1,21 @@
+
+T=Round and round the wheel spins. It finally lands on number 15. No chance. 
+T=No chance. Does that mean what you think it means? 
+
+T=No chance at all. 
+
+T=Zip. 
+
+T=Zero. 
+
+T=Nothing. 
+
+T=Nada. 
+
+T=Negatory. 
+
+T=Yes. That’s exactly what it means. You have met... 
+
+
+T=THE END
+C=0 
