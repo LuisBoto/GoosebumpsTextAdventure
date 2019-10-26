@@ -1,0 +1,18 @@
+
+T=The space lady slowly circles you as she sizes you up from head to toe. 
+T=“Hmmmm, I think you weigh thirty-eight pounds.” 
+
+T=“Thirty-eight pounds! Boy, are you wrong!” 
+
+T=“I’m never wrong,” she says, smirking. She snaps her fingers and two enormous guards appear.
+T=They each take one of your arms and drag you out of the courtyard. 
+
+T=“I don’t weigh thirty-eight pounds!” you yell. But then you remember.
+T=It isn’t your weight on Earth that matters. It’s your weight on Mars. 
+
+T=Do you weigh thirty-eight pounds on Mars? 
+T=You’d better find out quickly, 
+T=because something tells you that what Big A1 said about having to survive might be true. 
+
+
+C=134

@@ -1,0 +1,28 @@
+
+T=It seems as if hours have passed. Or maybe it’s only minutes. 
+
+T=You try to unclasp your hands. But they won’t budge. 
+T=It’s as if your arms are glued around your knees. 
+
+T=You try to move something. Anything. 
+
+T=But you can’t blink an eyelid. Your body is paralyzed. You can’t even scream. 
+
+T=A door opens and two men dressed in overalls and wearing gas masks amble in. 
+T=Finally. They’re here to rescue you! 
+
+T=“Looks like the perfume worked,” you hear one of them say. 
+
+T=“Yeah. And just in time. We needed a new dummy for the Real-Life Space Display,” the other adds. 
+
+T=They pick up your rigid body and carry you out.
+T=No wonder those astronauts in the silver tunnel looked so real! 
+
+T=Sorry. You can’t scream. You can’t escape. 
+
+T=Next time, you promise yourself, you’ll stick with the baby rides.
+T=But then you remember — there isn’t going to be a next time ... because this is ... 
+
+
+E=THE END 
+C=0

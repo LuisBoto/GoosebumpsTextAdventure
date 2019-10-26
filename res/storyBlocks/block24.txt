@@ -1,0 +1,19 @@
+T=Carnival workers. 
+T=The carnival workers who set up the same rinky-dink carnival you go to every summer. 
+
+T=You can’t believe your eyes. You must be seeing things! 
+
+T=Patty tries to say something smart, but the only thing she manages is “Huh?” 
+
+T=“Hey, kids!” a worker yells at you. 
+T=“Get away from that ride. The carnival doesn’t start till tomorrow night.” 
+
+T=You gaze around in wonder at the faded games, the baby rides, the tacky food stands. 
+T=For the first time in your life, it all looks great! 
+
+T=“We’ll be there!” you shout as you head for your bikes. 
+T=“This is the greatest carnival I’ve ever seen!” 
+
+
+E=THE END 
+C=0

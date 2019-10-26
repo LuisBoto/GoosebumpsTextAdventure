@@ -1,0 +1,18 @@
+T=The crowd is closing in. 
+T=Your pockets are empty — you have nothing to defend yourself with. So you run! 
+
+T=You spot a crack in the wall, next to the wheel. 
+T=It’s small — too small for an adult to squeeze through — but you can probably make it. 
+
+T=“Follow me!” you yell out to Patty and Brad as you squeeze through the opening. 
+T=It leads to a backstage area — and then to the flap of another tent. 
+
+T=You can hear the crowd behind you, trying to follow you through the crack. 
+
+T=“Come on! We can slip under this tent,” you say. For once, no one argues with you. 
+
+T=The three of you duck in and find yourself surrounded by another crowd. 
+T=They are all seated in chairs. And they don’t move. They just stare at you with glassy eyes. 
+
+
+C=55

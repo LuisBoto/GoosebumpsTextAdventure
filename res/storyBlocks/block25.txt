@@ -1,0 +1,25 @@
+T=Seconds later your head and the back of your feet slam into the wall. 
+T=You’re hanging upside down — in the middle of a gigantic magnetic wheel! 
+
+T=“Are you ready for The Final Challenge?” Big A1 asks. 
+
+T=“Of course not!” you say. “LET ME DOWN!” 
+
+T=“We’ll let you down — but not until you face The Final Challenge. 
+T=One spin will decide your fate. If you win, you go. If you lose, you stay here forever.” 
+
+T=Will that be your fate? 
+
+T=Big A1 approaches the wheel. 
+
+T=Brad and Patty are holding on to each other. 
+
+T=Your heart is pounding. 
+
+T=Your hands are sweating. 
+
+T=This is it. One spin. 
+
+T=He gives the wheel — with you on it — a hard turn. Where will it stop? 
+Q=Guess the number! > 44_44/74_74/124_124
+

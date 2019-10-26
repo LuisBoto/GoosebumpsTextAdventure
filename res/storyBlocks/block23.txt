@@ -1,0 +1,23 @@
+T=You yank on the reins. 
+T=But your horse plows ahead, pulling you forward — closer and closer to the chopping, chopping, chopping blades.
+T=Brad squinches down in the cart and buries his head in his lap. 
+
+T=Patty jumps into the front seat with you. 
+T=Together you pull on the reins and scream, “Whoa, fellow! Whoa!” 
+
+T=But your horse trots onward. “It’s no use,” you cry. “We’d better jump!” 
+
+T=You stare over the side. 
+T=You’re riding along a narrow ridge and there’s a deep drop that makes your blood run cold!
+T=If you jump, you’ll plunge to your death! 
+
+T=Then you glance up ahead — and spot a safer place to leap. Great! 
+
+T=You are about to show it to your friends when Brad cries out:
+T=“Look at the elves! They chop at set times. 
+T=If we can get the horse to move faster, we can miss the axes!” 
+
+T=“That’s dumb, we should jump!” argues Patty. 
+
+Q= What do you think you should do? > jump out_103/urge the horse to gallop_119
+

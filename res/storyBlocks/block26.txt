@@ -1,0 +1,22 @@
+T=“Hey, wait up!” you yell to Brad and Patty as you sprint through the Space Coaster gate. 
+
+T=They both ignore you and charge straight ahead. 
+T=You follow them into a narrow tunnel that leads to the boarding area. 
+
+T=You gaze down at the floor. Black rubber. It makes you walk with a strange bounce. 
+
+T=Every few feet there is a round porthole window.
+T=When you glance out one, you see astronauts planting flags on the moon.
+T=You peer out another. Now they’re seated in their capsule. 
+T=This is amazing, you think. The figures look real. Totally real. 
+
+T=After a long climb, you and Patty and Brad finally arrive at the loading area. 
+
+T=A sleek bullet-shaped capsule whooshes up and stops right beside you. 
+T=It has three sections. Brad climbs defiantly into the last section. 
+T=You leap into the front. Patty’s left with the middle section. 
+
+T=And suddenly you’re trapped! 
+
+
+C=58

@@ -1,0 +1,16 @@
+
+T=You’re outside — standing in Bennet’s Field — gazing at the fence that surrounds the carnival. 
+
+T=“I guess we’ll have to wait until tomorrow night when the carnival opens,” Brad says. 
+
+T=“No way,” Patty says. “Let’s climb the fence.” 
+
+T=What’s going on here? 
+
+T=You guessed it. The silver locker was a time machine. 
+T=You’ve gone back in time to the first moment you spotted the carnival.
+T=Now it appears as if you have to start all over again — fighting horror after horror, right up to ... 
+
+
+E=THE END 
+C=0

@@ -1,0 +1,26 @@
+T=What’s the big idea? You’re going to embarrass the giant into helping you. 
+
+T=“Hey, you. You know, you’re a real wimp,” you say to the giant. 
+
+T=He looks at you as if he can’t believe what he hears. 
+
+T=Patty and Brad look at you as if you’re crazy. 
+
+T=Maybe you are. 
+
+T=“You wimp,” you continue. 
+T=“You sit here all day, taking orders from that creep, Big Al. 
+T=And you live in these horrible conditions. Why? 
+T=Because you’re a wimp and you refuse to fight back. 
+T=You could bend those bars and escape — but you won’t. 
+T=Because you are a wimp — W-I-M-P — wimp.” 
+
+T=The giant stands. You gaze up. He’s over fifteen feet tall.
+T=He lumbers over to you. He isn’t smiling. 
+
+T=Is your plan going to work? 
+T=Is he going to bend the bars to prove you wrong? Or is he going to bend you? 
+
+T=It’s out of your control now. 
+
+Q=Look out the window. > It's sunny_45/It's raining or nightime_85

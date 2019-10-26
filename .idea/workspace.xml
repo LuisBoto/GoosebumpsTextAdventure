@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="052241c5-8c58-4303-b394-025f3cb2096b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/storyBlocks/block12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/storyBlocks/block12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/storyBlocks/block15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/storyBlocks/block15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layers/GameLayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layers/GameLayer.js" afterDir="false" />
-    </list>
+    <list default="true" id="052241c5-8c58-4303-b394-025f3cb2096b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -248,12 +243,12 @@
       <workItem from="1571860113971" duration="2060000" />
       <workItem from="1571914219545" duration="12709000" />
       <workItem from="1572033273267" duration="6692000" />
-      <workItem from="1572111553544" duration="1533000" />
+      <workItem from="1572111553544" duration="2128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92351000" />
+    <option name="totallyTimeSpent" value="92946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />

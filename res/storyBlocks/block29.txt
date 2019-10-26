@@ -1,0 +1,22 @@
+T=You stumble down the corridor to your right. 
+T=As you peer from side to side, you are met with hundreds of images of — you! 
+T=And you look pretty baffled. And scared. 
+
+T=“Hey, I could use some help,” you call out. 
+
+T=Silence. 
+
+T=You pound your fist against the wall. 
+
+T=The wall starts to move. 
+
+T=Just an inch or two — an inch or two closer to you! 
+
+T=You take a step back — but the wall behind you is moving, too. 
+
+T=The walls are moving together. They’re closing in on you. 
+
+T=You’re going to be crushed! 
+
+
+C=65

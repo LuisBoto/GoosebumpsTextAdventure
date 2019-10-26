@@ -1,0 +1,18 @@
+T=You’re falling ... falling ... 
+T=You can’t think of anything else to do, so you start flapping your arms like a bird. 
+
+T=At that moment a huge gust of air shoots up from under you and blows you back onto the bridge. 
+
+T=Breathing hard, you run the rest of the way across the rickety span. 
+T=When you reach the safety of the other side, you glance back. And gasp! 
+T=The bridge and the midway beyond it have vanished! Only a black void remains! 
+
+T=“Wow! Awesome special effects!” you cry out loud. 
+T=But was your fall part of the special effects, too? It didn’t feel like it. 
+
+T=You spin around to face the House of Horrors. Up close it appears really, really creepy. 
+T=Cobwebs drip down from its roof and an eerie yellow light glows inside. 
+T=Cool! Next to the house you spot a sign that reads boat trip to nowhere. 
+T=There are amazing speedboats that you can drive yourself. 
+
+Q=Which should you try first? > Boat trip to nowhere_88/house of horrors_66

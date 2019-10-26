@@ -1,0 +1,19 @@
+
+T=You land on number 19. 
+
+T=“Double or nothing. Double or nothing,” two voices behind you echo. 
+
+T=You whirl around — and gasp! It’s a man with two heads. 
+
+T=“Congratulations. You win ten points,” one head says to you. “Quit while you’re ahead!” 
+
+T=“Ahead, get it? Ahead!” the other head adds, laughing hysterically. 
+
+T=“Shut up,” head number one says. 
+
+T=“You shut up,” head number two shoots back. 
+T=“Ten points is nothing. You better spin again. 
+T=And this time it’s double or nothing. You get double the points wherever you land.” 
+
+Q=Which head should you listen to? > spin again_9/quit now_null
+Q=Have you played Guess Your Weight? > y_17/n_72

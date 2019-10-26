@@ -1,0 +1,25 @@
+
+T=You’re pretty sure that the space lady guessed wrong! 
+T=Now all you have to do is step on the scale to prove it. 
+
+T=The two goons shove you inside the planet simulation chamber. 
+T=It’s a long narrow tube, and it’s really stuffy inside. You can barely breathe. 
+
+T=You step up on the scale. You check the readout. 
+T=Boy, oh, boy! The space lady is wrong! 
+
+T=You jump up and down. “I won! I won!” 
+
+T=Back outside you collect your prize. It’s a huge chocolate bar. 
+T=You take a big bite out of it and stuff the rest in your pocket. 
+
+T=You gaze around. The coast is clear. Maybe you can find Patty and Brad and get out of here. 
+
+T=You walk a few steps forward. 
+T=But a heavy hand clamps down on your shoulder from behind. 
+
+T=It’s Big Al. 
+
+T=“It’s time to play another game,” he says, grinning. 
+
+Q= Have you already tried the Wheel of Chance? > y_17/n_8

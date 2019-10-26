@@ -1,0 +1,18 @@
+
+T=You take a few steps along the midway hoping you’ve won enough prizes and points.
+T=You notice the crowd of people surrounding Big Al. 
+T=They’re still chanting, “PAY OR PLAY PAY OR PLAY” 
+
+T=You break through the crowd and grab Big Al’s arm. 
+T=“Hey! Do you know where my friends are?” 
+
+T=“Certainly,” Big Al says, pointing up ahead. “They’re right over there!” 
+
+T=“Patty! Brad!” you shout as you rush up to them. 
+T=“Come on! We’ve got to go! This carnival is evil!” 
+
+T=But before they can say a word, Big Al’s voice booms from behind you. 
+T=“Not before The Final Challenge!” 
+
+
+C=84
