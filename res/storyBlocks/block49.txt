@@ -1,0 +1,26 @@
+T=The wheel stops on free spin. You are ready to try again. 
+T=But the dumb parrot flies over and latches onto your shoulder. 
+
+T=“Ouch! That hurts,” you cry. 
+
+T=“Free spin, free spin, you’re going on a free spin.” 
+
+T=“Turn me loose,” you command.
+T=When you swivel your head to glare at the bird, a scream freezes in your throat. 
+T=The parrot has ballooned into an enormous vulture. 
+T=His black, beady eyes pierce right through you. 
+T=He digs his razor-sharp claws deeper into your shoulder. 
+
+T=Run! — your every survival instinct shouts.
+T=But the bird of prey has other ideas. 
+T=One of them is dinner — with you as the main course. 
+
+T=The big bird snatches you by the back of your shirt as if you were a rag doll. 
+T=Kicking and screaming and using every defensive move you learned from karate class, you struggle for your life. 
+T=But it’s no use. With a jerk he lifts you off the ground. 
+
+T=And suddenly you have a frightening view of the carnival from twenty feet ...
+T=thirty feet... fifty feet up. 
+
+
+C=50

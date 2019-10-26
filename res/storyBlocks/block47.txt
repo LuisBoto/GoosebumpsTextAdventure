@@ -1,0 +1,20 @@
+T=The tracks stretch up so high that they seem to touch the clouds. 
+T=Your gaze follows one of the cars speeding around a sharp curve. 
+T=It looks like the space shuttle. 
+T=You notice that it has a safety harness that locks over your body — you’ve seen those before. 
+T=They keep you in when the ride turns upside down. 
+T=You didn’t want to admit it before, but, like Brad, riding upside down is not your favorite thing. 
+
+T=Still, the coaster does look amazing — one part enters a tunnel — and you can see that the cars go fast. 
+T=Really Fast! 
+
+T=You’re just about to walk through the Space Coaster gate when you hear spooky organ music coming from behind you. 
+T=You turn around. Looming in the distance is a dark and creepy haunted house. 
+
+T=You gaze down at your map. It’s called the House of Horrors. Hmmm. 
+T=You love haunted houses. And this one really looks scary. 
+
+T=Now you’re not sure what to do. You won’t have time for everything. 
+T=Join Patty and Brad on the Space Coaster or go alone to House of Horrors? 
+Q=Decide now. > Space Coaster_26/House of Horrors_64
+

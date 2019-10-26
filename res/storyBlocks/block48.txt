@@ -1,0 +1,29 @@
+T=“Come on!” Patty cries. “Come on!” 
+
+T=Then, without another word, she races off. You and Brad dash after her. 
+
+T=I hope Patty knows what she’s doing, you think as you try to catch up. 
+T=Because right now, it doesn’t look that way. 
+
+T=Patty leads you through a maze of underground passageways. 
+T=Then, just as you’re about to yell, “Stop!” — she does. 
+T=And you find yourself standing outside, in front of a barbed-wire fence! 
+
+T=Up ahead, you spot an opening. 
+
+T=“Let’s go in!” Patty says. 
+
+T=The three of you creep through the fence and trudge through some tall, wet grass. 
+T=You gaze around. It’s way too dark to see. 
+
+T=But you can hear perfectly. And the sounds that reach your ears make your skin crawl. 
+
+T=Slithering. You definitely hear slithering. 
+
+T=And hissing. 
+
+T=You want to leave. You spin around, but you can’t find the opening in the fence! 
+T=You do see something else. A sign! 
+
+
+C=60

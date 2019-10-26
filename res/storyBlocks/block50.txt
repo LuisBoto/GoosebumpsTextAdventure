@@ -1,0 +1,16 @@
+
+T=Thummp, thump, thump. Your heart bangs loudly inside your chest.
+T=What kind of carnival is this, you wonder, where a free spin is more like a death sentence? 
+
+T=You circle a green clump of treetops. You’re really dizzy now. 
+T=You want to close your eyes. 
+T=But you know it’s not a good idea — since you’re flying fifty feet high without a plane or a parachute. 
+
+T=As you circle closer to the treetops, you are met with a horrifying view.
+T=Five baby vultures in a nest, five very hungry babies, with mouths gaping wide open. 
+
+T=The end is near. You are going to wind up as a take-home dinner. 
+T=Unless you can somehow force the vulture to let you go.
+T=Frantically, you reach into your pockets! 
+
+Q=Did you win a chocolate bar at one of the Games of Chance? > y_76/n_115
