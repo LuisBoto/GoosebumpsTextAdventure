@@ -1,0 +1,26 @@
+T=Oh, no! You think the space lady guessed right! Now what’s going to happen? 
+
+T=The two guards shove you into the space chamber. 
+
+T=It’s a clear, narrow tube that rises farther up than you can see. 
+
+T=As the door slams shut behind you, one of the guards barks, “Get on the scale!” 
+
+T=You step up on the scale — and it shows just how right the space lady’s guess was. 
+
+T=You press the chamber-door release, but it’s stuck. 
+
+T=You try again. It doesn’t budge. 
+
+T=Maybe it’s locked from the outside. 
+
+T=“Hey! I can’t get out!” you yell to the guards. But they simply wave. 
+
+T=“Hey, let me out!” Now you’re mad. “Let me out!” 
+
+T=All at once the room starts to shake and rattle. RRRRRRRR. 
+T=The thrust of powerful rocket engines echoes in your ears. 
+T=It sounds as if you’re being launched into space. But that’s impossible, isn’t it? 
+
+
+C=40

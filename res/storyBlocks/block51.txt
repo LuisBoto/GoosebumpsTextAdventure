@@ -1,0 +1,23 @@
+T=You can’t take on both monsters, so you decide to wait until one of them leaves the room. 
+
+T=You grab hold of Dr. Stone’s hand. He’s a lot stronger than he looks. 
+T=With one small tug, he pulls you free of the web. 
+
+T=Then he turns to the monsters. “Okay,” he barks. “Adjust the net. It’s time to practice spiking.” 
+
+T=Spiking? What does he mean by that? 
+
+T=The monsters leap up. They rub their hands together in evil delight. 
+T=Then they untie the net and head to the back of the room, where two huge poles rest on the floor. 
+
+T=You close your eyes — and hope that when you open them, you’ll see that this was all a dream. 
+T=A really bad dream. 
+
+T=But when you open your eyes, you know it’s not a dream. 
+T=No — it’s a volleyball game. The net has been tied to the poles — and guess what position you play? 
+T=That’s right. You’re the ball! Watch out for those two-handed spikes! 
+T=They can be pretty painful! 
+
+
+E=THE END 
+C=0

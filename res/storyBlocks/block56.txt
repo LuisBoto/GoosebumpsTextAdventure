@@ -1,0 +1,26 @@
+T=You leap out of the boat. The putrid brown water splashes into your mouth. 
+T=Gross! 
+
+T=You swim a few strokes and suddenly find your knees scraping the bottom of the bog. 
+T=The water here is less than a foot deep. Unbelievable! 
+T=You were practically inches away from safety the entire time! 
+
+T=Slogging through the brown foam, you wade to shore. 
+T=Your clothes are dripping wet and smell like a sewer. 
+T=Well, look at the bright side, you remind yourself. 
+T=At least you didn’t go down with your boat. 
+
+T=But your troubles aren’t over yet. 
+T=You’re standing in a dank, eerie forest that surrounds the lake. 
+T=Creepy screeches echo through the night mist. And you’re totally lost. 
+
+T=The wind starts to blow. 
+T=Shivering, you wrap your arms around your shoulders and wonder where your friends are and what they are doing. 
+
+T=Then — POW! Something black and furry swoops down at you! 
+T=You duck your head, but it comes at you again and again. 
+
+T=A huge bat! 
+
+
+C=37

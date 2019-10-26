@@ -1,0 +1,18 @@
+T=They’re dummies. That’s why they don’t move! 
+
+T=“They’ve got to be here somewhere,” you hear Big Al’s voice boom outside the tent. 
+
+T=“Hey! This dummy looks just like the one in that GOOSEBUMPS book,” Patty says. 
+
+T=“You mean Night of the Living Dummy?” Brad asks. 
+
+T=Great! you think.
+T=Your friends are chatting about books minutes before you’re about to be attacked by a mob.
+T=Then you get an idea. 
+
+T=“Remember those magic words that brought the dummy to life in that book?” you ask your friends. 
+T=“Maybe we can bring this guy to life and he’ll help us — he was pretty tough.” 
+
+T=Your friends agree — it’s worth a try. 
+Q=Which words are the ones? > karru marri odonna loma molonu karrano_69/oooopah lupah dummie dupah_82
+

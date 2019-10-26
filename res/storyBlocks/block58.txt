@@ -1,0 +1,22 @@
+T=Steel bars plunge down from above and drop across your lap and chest, pinning you in place.
+T=You can’t move at all. Even your head is held by superstrong headphones that clamp over your ears. 
+T=A voice comes through them announcing: “Five, four, three, two, one, BLAST OFF!” 
+
+T=You hear a huge bang. 
+T=Smoke and fireworks fill the air as your car starts up the first big hill. 
+T=Your head presses back against the seat as you climb higher and higher. 
+T=That first hill is endless, but the view is awesome. 
+T=From the top, you can see the midway, the haunted house, and a shadowy swamp. 
+T=You can’t believe how big the carnival is! 
+
+T=“Neat!” Patty yells. “There’s AHHHH —” 
+
+T=Whatever she was going to say turns into a wild scream as the rocket plunges down the other side of the hill.
+T=The wind whips at your face. You are pressed back so hard, you feel like a pancake. 
+T=Everything passes in a fantastic blur. 
+
+T=As your car shoots up to the top of the next hill, you’re laughing and screaming at the same time. 
+T=This is great, you think! But then you make a big mistake. 
+
+
+C=39

@@ -1,0 +1,25 @@
+
+T=“There’s a sign!” you call out to Patty and Brad. 
+T=“Let’s see what it says.” 
+T=The three of you race through the wet grass.
+T=Your socks are drenched. And your sneakers squeak as you run. 
+T=But that’s not the sound that’s sending chills down your spine. 
+
+T=It’s the hissing. It’s growing louder. 
+
+T=“I’m not sure I want to read that sign,” you call out to Patty and Brad. 
+
+T=“I know what you mean!” Patty shouts back. 
+T=“I have a feeling we’re not going to like what it says.” 
+
+T=And you don’t. You reach the sign and read it aloud. 
+T=“Reptile Petting Zoo! Whoever heard of a Reptile Petting Zoo! What kind of carnival is this anyway?” 
+T=“This carnival is e-evil,” Brad stammers. 
+
+T=You’re about to agree when you notice the grass in front of you is swaying. 
+T=Something is slithering through it. Something big. And then it comes into view. 
+T=“Snake!” Brad cries. 
+
+T=You know you have to run — but which way? 
+Q=Left or right? > left_125/right_12
+

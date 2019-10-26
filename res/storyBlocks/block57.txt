@@ -1,0 +1,24 @@
+T=You open the blue door and peer through. 
+T=You’re staring down a long dark passageway. At least you think it’s long. 
+T=It’s difficult to tell. It’s pitch-black. You don’t know what to do. 
+
+T=“Maybe I should have picked the other door,” you say to yourself. 
+T=“I’m getting out of here!” 
+
+T=But the blue door has locked behind you! Now you’re sure you made the wrong choice. 
+T=But there’s nowhere to go but forward. 
+
+T=Your knees begin to tremble as you inch your way down the dark hallway. 
+
+T=The passage ends in a bright burst of light. 
+T=And in front of you, a tall purple mountain rises hundreds of feet into the air. 
+
+T=You breathe out a long sigh of relief. You’re out of the dark! 
+
+T=You study the mountain. 
+T=It looks so real! But cut into its side, you spot a doorway. 
+T=Above it a brightly painted sign reads: 
+T=DOOM SLIDE - WILL YOU BE THE ONE TO SLIDE FOREVER? 
+
+
+C=135

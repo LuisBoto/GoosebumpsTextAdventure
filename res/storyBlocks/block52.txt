@@ -1,0 +1,10 @@
+T=Just as the clock strikes twelve, the train enters a tunnel. 
+
+T=You hold your breath, wondering what you’ll see when you reach the other end. 
+
+T=Chug. Chug. Chug. 
+
+T=The choo-choo slowly pulls out of the tunnel — and you are surrounded by carnival workers — everywhere! 
+
+
+C=24 

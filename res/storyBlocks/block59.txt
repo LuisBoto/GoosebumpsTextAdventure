@@ -1,0 +1,24 @@
+T=Blue is your favorite color. You turn the blue card over. 
+
+T=There is a message: Help us! You are our only hope. 
+T=Hurry to the back door of the freak show. Signed, The Freaks. 
+
+T=“What does this mean?” you ask Madame Zeno. 
+T=She stares deep into your eyes. Her lips tremble. She leans forward. 
+T=She’s about to speak. 
+
+T=And then the lights go out — and a blood-curdling scream rips through the dark! 
+
+T=You start to bolt for the door when a dim light suddenly flickers. 
+T=You stare across the table. Madame Zeno is gone! 
+
+T=You reach out to take the card. And it bursts into red-hot flames! 
+T=In seconds, the entire tent fills with thick smoke. 
+T=Flames shoot across the floor. You run for the door. 
+
+T=Outside, you gulp the fresh air. Whew! You made it. 
+
+T=You glance back. No smoke. No fire. No tent! 
+T=Everything has disappeared! 
+Q=What should you do now? > Help the freaks_11/Do not help them_113
+

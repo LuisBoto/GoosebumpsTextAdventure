@@ -1,0 +1,21 @@
+T=Your Halloween Express car pulls up in front of a cottage and the cottage door opens with a creak. 
+T=You all jerk your heads up to peer at the door. 
+T=You see a skeleton wearing an evil smile. And he lunges right for you! 
+
+T=“Trick or treat!” he screeches. Then he stretches out his bony hands to snatch you! 
+
+T=You pound on the gas pedal, and the car shoots forward — out of the skeleton’s grasp! 
+
+T=Your heart begins to race as the car speeds out of control. 
+T=You tear through an eerie forest, speed past more cottages — but still you don’t see a way out. 
+
+T=And then it comes into view — a service exit! 
+
+T=All you have to do is stop the car, jump out, and scramble through the fence, and you’ll be free. 
+
+T=You check your watch — five minutes to midnight! 
+
+T=“Oh, no!” Patty screams. “Quick, turn left! Don’t stop!” 
+
+
+C=83
