@@ -1,0 +1,24 @@
+T=A wave of panic washes over you as the walls crumble around you. 
+T=You throw your arms over your head and close your eyes. 
+
+T=Then silence. The shaking stops. 
+
+T=When you open your eyes, the room and all the costumed people have vanished. 
+T=And you are outside — in the rides area! 
+T=But the biggest surprise of all is that you spot Patty and Brad! 
+
+T=“Boy, am I glad to see you,” you say, racing over to them. 
+T=“Where have you guys been?” 
+
+T=Brad shakes his head. “You wouldn’t believe the rides we were on!” 
+
+T=“We’ve got to get out of here before midnight,” you say. 
+T=Quickly, you tell your friends about the warning from the lady with the red parasol. 
+
+T=“No problem,” Patty says. 
+T=“Look. I’m sure the exit is right over there past that ride called the Hall of the Mountain King.” 
+
+T=“No, it’s that way — near the sign that says ‘Halloween Express,’ ” Brad insists. 
+
+
+Q=Which way do you think is the right way? > Halloween express_108/mountain king_107

@@ -1,0 +1,30 @@
+T=You are about to scream. It seems like the only sensible thing to do. 
+
+T=And then you remember the sign. 
+
+T=Reptile Petting Zoo. 
+
+T=You have an idea. It’s a crazy idea, you know. But everything in this carnival is crazy. 
+
+T=You can feel the alligator’s hot breath on your arm. 
+T=But instead of pulling your arm back, you stretch it out! 
+
+T=“What are you doing?” Patty screams. 
+
+T=Your fingers reach out. Out over the alligator’s open snout to the top of his head. 
+
+T=And you pet him. 
+
+T=“Nice alligator,” you purr as you stroke his scaly head. 
+
+T=Your arm trembles, but you don’t stop. And slowly — very slowly — the creature’s mouth begins to shut. 
+
+T=Then he rolls over and falls asleep! 
+
+T=You slip quietly off the log, charge for the shore — and plow right into Big Al! 
+
+T=“Well, well, well. Look who we have here,” Big Al sings out. 
+T=“Come with me. It’s time for The Final Challenge.” 
+
+
+C=84

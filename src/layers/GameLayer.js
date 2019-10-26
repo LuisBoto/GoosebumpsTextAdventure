@@ -92,7 +92,7 @@ class GameLayer extends Layer {
             var block;
             var separator = "=";
             var text = file.responseText;
-            var lines = text.split('\n');
+            var lines = text.split("\n");
             block = new Block(blockNumber, []);
             for (var i = 0; i < lines.length; i++) {
                 var line = lines[i];
@@ -123,8 +123,7 @@ class GameLayer extends Layer {
                         block.addCommand(command);
                         break;
                     case "E":
-                        var c = line.split(separator)[1].toString();
-                        var command = new Command(function f(gameLayer) {gameLayer.printCenteredText(c)});
+                        var command = new CenteredTextCommand(line.split(separator)[1], null);
                         block.addCommand(command);
                         break;
                 }

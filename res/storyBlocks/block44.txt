@@ -1,0 +1,13 @@
+T=You’re spinning round and round. Everything is a blur. 
+T=You can’t see, but you hear the crowd chanting, “FI-NAL! FI-NAL! FI-NAF!” 
+
+T=And then the wheel stops. 
+
+T=A huge gasp escapes from the audience. 
+
+T=Did you win or lose? 
+
+T=Neither. You stopped on spin again. 
+
+
+C=25

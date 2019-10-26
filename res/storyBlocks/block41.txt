@@ -1,0 +1,25 @@
+T=“What do you mean the magic number could save my life?” you ask Madame Zeno. 
+T=But the fortune-teller doesn’t answer. She stares off into space. 
+T=She seems to have fallen into a deep trance. 
+
+T=You don’t really believe her — these fortune-tellers are all fakes, but you memorize the number anyway. 
+T=1-3-2,1-3-2. I picked red instead of blue, you chant to help you remember. 
+
+T=Madame Zeno puts the card back in the deck. She closes her eyes and waves you away with her jeweled hand. 
+
+T=You guess the fortune-telling is over, so you leave the tent to search for Patty and Brad. 
+
+T=You squint under the bright lights of the midway, scanning all the game booths. 
+T=But you can’t find them. 
+
+T=You’re trying to figure out which way to go when you spot Big Al coming toward you. 
+T=He’s not alone. He’s leading a large group of people. 
+T=As they come closer, you hear that they are chanting something. 
+T=What is it? 
+
+T=“PLAY OR PAY. PLAY OR PAY.” 
+
+T=What does that mean? 
+
+
+C=16

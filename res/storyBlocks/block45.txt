@@ -1,0 +1,12 @@
+T=The giant looms over you. 
+T=He’s as tall as the tree outside your house — and a lot meaner. 
+T=His huge lips part and he says, “You hurt my feelings.” 
+
+T=Then he begins to cry. 
+
+T=“I am not a wimp. I am not,” he says between huge sobs. 
+
+T=He sure looks like a wimp. 
+
+
+C=98

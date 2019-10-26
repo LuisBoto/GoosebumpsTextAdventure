@@ -1,0 +1,9 @@
+T=You’re falling ... 
+T=Falling ... 
+T=Everything passes as if you’re dropping in slow motion.
+T=Is this...
+
+E=THE END?
+E=Yes. 
+
+C=0
