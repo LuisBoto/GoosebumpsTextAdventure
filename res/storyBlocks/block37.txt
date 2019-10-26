@@ -1,0 +1,29 @@
+T=You cover your head with your hands and try to run into a thick grove of trees.
+T=But the bat circles in front of you and dives again. 
+
+T=“Stop it! Stop it!” you scream. 
+
+T=As you turn and race toward some low bushes, you remember the stories — 
+T=the horrible stories about bats making nests in people’s hair. 
+T=And the only way to get them out was to shave your head.... 
+
+T=Those stories weren’t true — were they? 
+
+T=You spot a big stick in the wet dirt and scoop it up. 
+
+T=The bat swoops down at you once more and — FWAP! You hit it. 
+
+T=The bat falls to the ground. 
+
+T=And you see it’s on a wire. 
+
+T=It’s a mechanical bat. 
+
+T=All part of the ride, you think. You think about the boat ride.
+T=Boy, they really make things seem real at this carnival, you think. 
+T=You feel much better when you gaze up ahead. There’s a clearing. 
+
+T=But when you see what’s there — you scream! 
+
+
+C=93

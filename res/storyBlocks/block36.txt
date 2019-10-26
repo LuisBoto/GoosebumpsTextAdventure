@@ -1,0 +1,12 @@
+T=You turn back and head in the other direction. 
+T=Your reflections bounce off the walls at crazy angles. 
+T=Are you walking straight, or have you rounded a corner? 
+T=There’s no way to tell. Yet this time you’re sure you’re going the right way! 
+
+T=“Over here!” a voice calls. “Turn left again!” 
+
+T=Turn left again? Now you are really confused. 
+
+T=If you turn left again, will you finally escape? 
+
+C=118

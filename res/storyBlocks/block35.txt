@@ -1,0 +1,27 @@
+T=Five minutes later, the three of you are sneaking down a dark alley. 
+T=Brad is so frightened, he’s practically walking on top of you. 
+
+T=The alley is littered with large cardboard boxes and overflowing trash cans. 
+T=And it smells like dead fish. 
+
+T=“Hey! Quit stepping on my shoe,” you say to Brad. 
+
+T=“I’m not stepping on your shoe,” he shoots back. 
+T=“I’m not anywhere near your stupid shoe.” 
+
+T=You glance down. And nearly scream. 
+
+T=Brad’s right. He’s not stepping on you. But about a dozen rats are. 
+
+T=You shake your foot wildly. The rats scurry off. 
+
+T=Brad catches sight of the rats and tries to bolt. 
+
+T=You and Patty quickly pull him back. 
+
+T=“Hey! Look!” Patty says, pointing up ahead. “A door!” 
+
+T=On the door you see a big sign that reads keep out, so ... you go in. 
+
+
+C=13

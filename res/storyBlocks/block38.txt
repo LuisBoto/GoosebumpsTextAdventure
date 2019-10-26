@@ -1,0 +1,22 @@
+T=“Got a winner, got a winner,” the parrot squawks. 
+T=“You’ve won twenty-five points, plus anything you want in the prize room. Step this way.” 
+
+T=Eagerly, you follow the bird into a storeroom behind the booth. 
+T=It’s packed with the weirdest assortment of junk you’ve ever seen. 
+T=Dusty old catalogs, stuffed rats, a collection of axes, and portraits of headless people holding their own heads! 
+
+T=“So pick something. It’s getting late,” the parrot says. 
+
+T=Not this garbage, you think. 
+T=Then you spot a shelf of small cans with bright labels: 
+T=play and glow, clay slime, and monster blood. 
+T=Monster Blood? Hey, isn’t that the magic stuff you read about in GOOSEBUMPS? 
+
+T=“I’ll take the Monster Blood,” you decide. 
+
+T=“Excellent choice,” the parrot remarks. 
+
+T=As you quickly leave the room with your prize, you wonder, is twenty-five points enough? 
+Q=Will you spin for more points? > y_9/n_null
+Q=Have you already played Guess Your Weight on Mars? > y_17/n_72
+

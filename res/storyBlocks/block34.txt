@@ -1,0 +1,22 @@
+T=“Let’s go on the rides first!” you say. “That roller coaster looked awesome!” 
+
+T=“Okay,” Patty agrees. “Over this way!” she yells as she charges over to it. 
+
+T=When you reach the rides, you can only stare in amazement. 
+T=These are the most fantastic rides you’ve ever seen. 
+T=The towering roller coaster ... the soaring speedboats ... the twisty slides! 
+T=Every one is in motion. Whizzing, whirling, doing loop-the-loops. 
+T=And they’re all empty! No riders. No people in line! 
+
+T=“Cool!” Patty exclaims. “We have the whole place to ourselves.” 
+
+T=Brad’s face turns a little green as his gaze swings from the Supersonic Space Coaster to the Doom Slide. 
+T=“Do you think they have rides that don’t go upside down?” he asks. 
+
+T=“Come on! Let’s check out the coaster!” Patty calls to you and Brad. 
+T=Then they run off to its starting gate. 
+
+T=You stop and crane your neck to gaze up at the coaster’s first hill. And you gasp! 
+
+
+C=47

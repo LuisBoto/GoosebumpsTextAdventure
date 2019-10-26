@@ -1,0 +1,21 @@
+T=You close your eyes.
+T=When you open them, your car lunges forward with a burst of speed — and you loop-the-loop.
+T=Your mouth drops open to scream, but no sound comes out. 
+
+T=Now your car starts to plunge downward — like an elevator out of control. 
+T=Your heart pounds in your chest. 
+T=This is the fastest and best roller coaster you’ve ever been on!
+T=As you near the bottom, you slow down. You begin to catch your breath. 
+T=And then you see what’s up ahead. A huge black hole — a tunnel! 
+
+T=As you shoot toward the open mouth of the tunnel, you begin to scream again. 
+T=The door of the tunnel is about to close! 
+
+T=Snap! The door comes crashing down — behind your car. 
+T=You breathe out a long sigh. 
+T=But now you’re in a tunnel so dark that you can’t see a thing. 
+
+T=Scary! But not nearly as scary as what happens next. 
+
+
+C=94

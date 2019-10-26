@@ -1,0 +1,22 @@
+T=You glance once more at the dwarf. He lets out an evil cackle. 
+T=That’s it — there’s no way you can trust him. 
+T=Besides, you can hear music up ahead. You’re sure you must be near an exit. 
+
+T=“No, thanks. I don’t need any help,” you mumble. 
+
+T=He shrugs. “Oh, yes, you do,” he says. But then he sprints off. 
+
+T=You walk in the direction of the music. 
+T=But after five minutes, you realize that you’re not getting anywhere. 
+
+T=Maybe you should have followed the dwarf. 
+T=You start to think about Patty and Brad. Are they okay? you wonder. 
+
+T=Just when you think you’ll be wandering these tunnels for the rest of your life, the passageway ends! 
+T=Now you’re facing two doors — one red and one blue. 
+T=Which one should you try? You might as well flip a coin! 
+
+T=Get a coin. 
+T=Flip it and check whether it comes up heads, and take the blue door, or tails and take the red one. 
+Q=Which one was it? > Heads_57/tails_104
+

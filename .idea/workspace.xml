@@ -156,12 +156,6 @@
             <path>
               <item name="GoosebumpsTextAdventure" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoosebumpsTextAdventure" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="storyBlocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoosebumpsTextAdventure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoosebumpsTextAdventure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -243,16 +237,15 @@
       <workItem from="1571860113971" duration="2060000" />
       <workItem from="1571914219545" duration="12709000" />
       <workItem from="1572033273267" duration="6692000" />
-      <workItem from="1572111553544" duration="2128000" />
+      <workItem from="1572111553544" duration="2728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92946000" />
+    <option name="totallyTimeSpent" value="93546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1698612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

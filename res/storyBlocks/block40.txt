@@ -1,0 +1,15 @@
+T=“Five, four, three, two, one. We have liftoff,” a mechanical voice announces. 
+
+T=To your horror, the rocket blasts off! 
+T=You’re slammed against the side of the capsule with hurricane force. 
+T=Seconds later, you’ve left Earth’s atmosphere. 
+
+T=A recorded message comes on: 
+T=“Congratulations. You are the perfect weight for our Mars explorer. 
+T=We’ll be monitoring your trip and will bring you back in approximately twenty years — 
+T=with a plus or minus ten-year margin of error in case something goes wrong. 
+T=But do not worry. Nothing can go wrong ... go wrong ... go wrong.” 
+
+
+E=THE END 
+C=0

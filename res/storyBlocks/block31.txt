@@ -1,0 +1,24 @@
+T=You snap your head around to the right — where you hear footsteps coming toward you. 
+
+T=You are facing a short man with wrinkly skin and bloodshot eyes. 
+T=His bushy black hair resembles a scouring pad.
+T=And from the looks of it, it probably feels like one, too. 
+T=His evil expression makes you cringe. 
+
+T=But he’s nothing compared to the “things” in back of him — two seven-foot- tall monsters. 
+T=One has blue horns and bulging red eyes. 
+T=The other has scaly skin and an alligator snout that snaps open and closed as he eyes you. 
+
+T=The trio all wear lab coats. 
+T=And from the eager way they’re looking at you, you realize that you are the lab rat. 
+
+T=You struggle to escape from the net. But you’re trapped in the webbing. 
+T=Like a fly in a spider’s web. 
+
+T=“Welcome to my humble laboratory,” the short man says.
+T=“I am Dr. Frank N. Stone, the mastermind who created the Carnival of Horrors.” 
+
+T=The Carnival of Horrors! You don’t like the sound of that! 
+
+
+C=89

@@ -1,0 +1,21 @@
+T=Your boat glides through the channel at high speed to Booger Bog. 
+T=Water sprays up into your face. But soon you have to slow down. 
+T=Trees have suddenly sprung up all around you. 
+T=You’re completely surrounded now by their towering trunks. 
+
+T=In the dark light, their limbs take on the shape of gnarled arms with blackened, bony fingers at the ends. 
+T=You stare hard at the tree trunks. Could it be? Are they reaching out for you? 
+
+T=You slowly weave the boat through the twisted trunks and branches. 
+T=They’ve grown so thick here that you can barely pilot your boat through them. 
+
+T=The trees rustle as if they’re whispering to each other. Their limbs begin to sway. 
+T=As you glide carefully through the water, the leaves slap against your face. 
+T=Slap. Slap. Slap. 
+
+T=Your heart starts hammering away in your chest. This is really scary.
+T=Just how far is nowhere? you begin to wonder. 
+T=Something swipes at your hair! What was that? 
+
+
+C=105
