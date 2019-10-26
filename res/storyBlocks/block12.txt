@@ -13,5 +13,6 @@ T=“Our alligator has been so lonely,” the deep voice continues.
 T=“Waiting and waiting — for his new pets to arrive. And here you are — finally.” 
 
 
-T=THE END 
+E=THE END 
+
 C=0

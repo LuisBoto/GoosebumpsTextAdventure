@@ -61,6 +61,14 @@ class GameLayer extends Layer {
         this.texts.push(new TypeText("> "+value, this.xText, this.yText));
     }
 
+    printCenteredText(value) {
+        this.newLine();
+        if (this.yText > 1080*0.9) {
+            this.clearText();
+        }
+        this.texts.push(new TypeText(value, 1920*0.5, this.yText));
+    }
+
     newLine() {
         this.yText = this.yText + 30;
     }
@@ -97,12 +105,12 @@ class GameLayer extends Layer {
                         var command = new QuestionCommand(line.split(separator)[1], null);
                         block.addCommand(command);
                         break;
-                    case "L": //Plain text print command
+                    case "L": //Block load command
                         var command = new LoadCommand(line.split(separator)[1], null);
                         block.addCommand(command);
                         break;
                     case "C":
-                        var b = line.split(separator)[1];
+                        var b = line.split(separator)[1].trim();
                         var command = new Command(function f(gameLayer) {gameLayer.loadBlockFile(b.toString())});
                         block.addCommand(command);
                         break;
@@ -112,6 +120,11 @@ class GameLayer extends Layer {
                         break;
                     case "W":
                         var command = new WheelCommand(line.split(separator)[1],null);
+                        block.addCommand(command);
+                        break;
+                    case "E":
+                        var c = line.split(separator)[1].toString();
+                        var command = new Command(function f(gameLayer) {gameLayer.printCenteredText(c)});
                         block.addCommand(command);
                         break;
                 }

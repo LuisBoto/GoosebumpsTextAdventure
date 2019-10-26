@@ -17,5 +17,6 @@ T=Negatory.
 T=Yes. That’s exactly what it means. You have met... 
 
 
-T=THE END
-C=0 
+E=THE END
+
+C=0
