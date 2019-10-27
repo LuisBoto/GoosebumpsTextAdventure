@@ -7,6 +7,6 @@ function playAmbientMusic() {
 }
 
 function stopMusic() {
-    ambientMusic.stop();
+    ambientMusic.pause();
 }
 
