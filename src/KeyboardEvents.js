@@ -17,6 +17,10 @@ function onKeyDown( event) {
 
         if (awaitingInput && keycodes.indexOf(event.keyCode)!=-1)
             userInput = userInput+String.fromCharCode(event.keyCode);
+        if (awaitingInput && userInput.length>0 && event.keyCode==8) {
+            //Deleting last character
+            userInput=userInput.substring(0, userInput.length-1);
+        }
 
     }
 
