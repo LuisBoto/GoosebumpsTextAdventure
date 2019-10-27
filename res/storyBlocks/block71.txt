@@ -13,7 +13,7 @@ T=But it never happens. You keep going down.
 
 T=Your last thought is that you’re going to set a world’s record for holding your breath underwater. 
 
-T=You’d better set a world’s record for closing the game and starting over again. 
+T=You’d better set a world’s record for closing the book and starting over again. 
 T=Maybe next time you dive in you’ll have better luck. 
 
 

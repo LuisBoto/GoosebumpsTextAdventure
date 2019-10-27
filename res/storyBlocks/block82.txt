@@ -1,0 +1,24 @@
+
+T=“Oooopah lupah dummie dupah.” 
+T=You say the magic words and wait for the dummy to spring to life. 
+
+T=And you wait. 
+
+T=And you wait. 
+
+T=The dummy remains the same. 
+
+T=But something strange is happening to you. 
+T=What are those feathers sprouting out of your skin? 
+T=And what’s happening to your feet? Are those claws you see growing out of them? 
+
+T=Is it possible that the magic words are turning you — CLUCK — into a — CLUCK — chicken? 
+
+T=That’s eggs-actly what’s happening. 
+
+T=Well, you laid an egg this time. 
+T=Let’s hope you won’t be too chicken to open this book again and try once more to escape from the Carnival of Horrors. 
+
+
+E=THE END
+C=0 

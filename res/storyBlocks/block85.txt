@@ -1,0 +1,23 @@
+
+T=The giant hangs over you, flexing his muscles. 
+T=He squints at you as if you are a bug — ready to be squashed. 
+
+T=“Did you call me a wimp?” he thunders. 
+
+T=You are much too scared to answer. 
+
+T=The giant answers for you. “You’re right. I am a wimp!” 
+
+T=And with that, he bends the bars, and you, Patty, and Brad scramble through. 
+
+T=“Follow me,” the giant says. “I know a way out of here.” 
+
+T=“What about the others?” you ask, pointing to the freaks in the cells that line the wall. 
+
+T=“No problem!” Patty yells, grabbing the keys from a hook on the wall. 
+T=“Here — catch!” 
+
+T=You quickly unlock all the doors — setting the freaks free! 
+
+
+C=126

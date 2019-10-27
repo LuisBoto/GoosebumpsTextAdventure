@@ -1,0 +1,28 @@
+
+T=You squint hard at the road ahead of you — and see why Patty wants you to turn. 
+T=There they are — the people in the old-fashioned clothes. 
+T=Only they don’t look the same. 
+
+T=Some have green flesh. Some are deathly white. 
+T=Their rotting skin hangs from their bones. 
+
+T=And they’re all reaching out. Reaching out for you! 
+
+T=“Turn! Turn!” Patty yells. 
+
+T=You spin the wheel sharply to the left to avoid them. 
+T=But you can’t dodge the ghostly creature that’s rising above you. 
+T=He’s ten feet tall — with arms so long that they scrape the ground. 
+T=His mouth gapes open to reveal hundreds of blackened, rotting teeth. 
+
+T=He swoops down at you. You turn the steering wheel hard to the right. 
+T=Too hard — it comes off in your hands! 
+
+T=“Jump!” you cry. “Jump and run! Run!” 
+
+T=The three of you leap out of the moving car. But are you fast enough? 
+T=That depends on how good your reflexes are. 
+
+T=Try this test and find out. Throw a ball in the air. 
+T=Try to clap three times before you catch it.
+Q=Were you able to do it? > y_73/n_127 

@@ -1,0 +1,18 @@
+T=Big A1 shoves you and your friends into a huge red tent. 
+T=It seems to be set up for some kind of show. 
+T=Red carpeted steps lead up to a platform, which sits under a golden arch. 
+T=The arch twinkles with a thousand colored lights that spell out: 
+T=FINAL CHALLENGE. 
+
+T=Trumpets blast as people flood into the viewing area. 
+T=As they march in, they clap their hands and yell, “FI-NAL. FI-NAL.” 
+
+T=Big A1 leads you up the carpeted steps. 
+T=You are standing on the platform now — in front of a shimmering curtain that hangs down from the arch. 
+
+T=The crowd begins to chant, “SUD-DEN DEATH. SUD-DEN DEATH.” 
+
+T=“What do you think that means?” Patty asks. 
+
+
+C=123
