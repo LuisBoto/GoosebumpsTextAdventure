@@ -20,3 +20,6 @@ whereas a Q represents a question made to the user, and is to be followed by all
 
 All the story blocks created from the original book can be found on "res/storyBlocks".
 Some blocks are meant to serve as a start screen or menu options, too.
+
+## Try it out
+You can give it a go at: https://luisboto.github.io/GoosebumpsTextAdventure/
