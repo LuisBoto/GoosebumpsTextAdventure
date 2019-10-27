@@ -1,0 +1,28 @@
+T=You start up the brick path to the House of Horrors. 
+T=Suddenly, someone sneaks up behind you and taps you on the shoulder. 
+T=You spin around and jump back. 
+
+T=Standing in front of you is a bony skeleton. 
+
+T=And it talks. 
+
+T=“Don’t go in there,” the skeleton says. “Or you’ll end up like me....” 
+
+T=You stare in terror at the hideous creature. Then you burst out laughing. 
+
+T=“Wow! You guys really want to make the haunted house totally creepy. 
+T=This is going to be great!” you say. 
+
+T=You’re still chuckling as you push open the giant oak door of the House of Horrors. 
+T=It swings back with a long, loud creak. 
+
+T=You step inside and find yourself in a narrow hallway. 
+T=The door slams shut behind you and the hall turns darker than a starless night. 
+T=“I can’t even see my hands!” you exclaim. 
+
+T=You stumble ahead slowly, pressing your palms against the walls to guide you. 
+
+T=When will this tunnel end? 
+
+
+C=80

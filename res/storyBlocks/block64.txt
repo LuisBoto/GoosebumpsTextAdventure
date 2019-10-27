@@ -1,0 +1,20 @@
+T=The House of Horrors! You have to see it. You just have to! 
+
+T=“I’ll catch up with you guys later,” you call to Patty and Brad. 
+T=“I’m going to check out the haunted house.” 
+
+T=You glance down at your map for directions. 
+T=The rickety wooden bridge over to your left appears to lead straight there. 
+
+T=As you start across the bridge, the wooden planks creak under your feet. 
+T=Then the bridge begins to sway. You look down. Way down. 
+T=The bridge spans a deep, rocky gorge. Gulping, you grab the handrail. 
+T=You move slowly. A strong wind blows up from the canyon below. 
+T=The bridge is swaying wildly now, tossing from side to side. 
+
+T=A massive spear of lightning splits the sky. 
+T=Thunder rumbles so loudly you jump and lose your balance. 
+T=“Help!” you scream as you tumble right over the side — and plunge toward the jagged rocks below! 
+
+
+Q=How can you save yourself? > try a grab for the side of the bridge_46/flap my arms and try to fly_30

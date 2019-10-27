@@ -1,0 +1,27 @@
+T=“Nine ... ten ...” 
+
+T=“Brad, shut up. Look at this!” 
+
+T=You point to the letters on the front of the train car. 
+
+T=You’ve been staring at them the entire time. Why didn’t you notice them before? 
+
+T=“What about the letters?” Patty says sharply. 
+
+T=“Eleven ...” 
+
+T=“Don’t you see what they say?” you shoot back. 
+
+T=“ ‘Right-Way Railroad,’ ” Patty reads. “So what?” 
+
+T=The chants of the merry-go-round people echo in your head. 
+T=There’s only one right way. There’s only one right way. 
+
+T=Could it be? 
+
+T=“Twelve!” 
+
+T=Now what? 
+
+
+C=52

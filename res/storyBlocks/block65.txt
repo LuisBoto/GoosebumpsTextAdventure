@@ -1,0 +1,21 @@
+T=The walls are closing in faster now. 
+
+T=You throw your arms out and try to push them away. But it’s hopeless. 
+T=You’re going to be crushed like a bug. 
+
+T=You suck in a deep breath — it could be the last breath you take. 
+
+T=The floor opens beneath your feet! 
+
+T=You drop down. Down. Down. Down. 
+T=A long, agonizing scream escapes from your throat as you tumble through space. 
+
+T=Will you ever hit bottom? 
+
+T=“Incoming player,” you hear a commanding voice shout. “Stations, everybody.” 
+
+T=A layer of webbing catches you like one of those nets trapeze artists use. 
+T=Gasping, unable to understand what’s happening, you bounce up and down. 
+
+
+C=31

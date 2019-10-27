@@ -1,0 +1,27 @@
+T=You slowly lower yourself onto the slide. 
+T=You start to stretch out your legs when the bottom tilts underneath you and throws you forward. 
+T=You’re sliding! Fast! 
+
+T=The surface must be made of some kind of special material because you’re zooming down at top speed. 
+
+T=You hold your breath as you fly through the blackness. 
+T=A bump sends you bouncing into the air. You scream. And scream. 
+
+T=When is it going to end? 
+
+T=Oh, no! Could this be the Doom Slide? 
+
+T=You hear screams echo in the darkness. You twist around. 
+T=But you don’t see anyone. 
+
+T=The ghostly screams grow louder — in front of you, next to you, behind you. 
+T=Screaming and sliding. And sliding. Never stopping. 
+
+T=You gasp for breath. And then you hear it. 
+
+T=A voice cuts through the blackness. Through the screams. A voice that cries:
+T=“Welcome to the rest of your life. Welcome to the Doom Slide!” 
+
+
+E=THE END 
+C=0

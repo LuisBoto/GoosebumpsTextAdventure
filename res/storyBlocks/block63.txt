@@ -1,0 +1,27 @@
+T=Bump. 
+
+T=A chute opens up. You land headfirst on soft grass. 
+
+T=You blink several times. A long sigh escapes from your lips. 
+T=It wasn’t the Doom Slide after all. 
+
+T=As you climb to your feet you hear someone call your name. 
+
+T=You glance up and shout for joy. It’s Brad! And Patty’s there, too! 
+
+T=You tell them about your scary ride on the slide — about how you thought you’d slide forever. 
+
+T=“Cool!” Patty exclaims. “Let’s all ride it this time!” 
+
+T=“No!” you tell her. “This carnival is too weird. And dangerous. 
+T=Something’s not right. We have to get out of here. Now!” 
+
+T=“Yeah,” Brad agrees. “The faster, the better.” 
+
+T=“I have an idea,” Patty announces. You and Brad huddle around her. 
+T=“I spotted a back way out of here. But it’s a little risky. 
+T=We have to squeeze through a barbed-wire fence — and it’s guarded by the carnival’s security forces. 
+T=But we should try!” 
+
+Q=Are you going to listen to Patty? > follow her_48/not take the back way out_86
+

@@ -1,0 +1,22 @@
+
+T=You’re too scared to turn around. And too scared not to. 
+T=Risking a glance over your shoulder, you see a large, dark shape behind you. 
+T=It’s a big man. No. You squint hard. 
+T=It’s dark and hairy with muddy leaves and green vines trailing from its body. 
+T=It’s some sort of swamp monster! 
+
+T=You run as fast as you can. Your chest is on fire. 
+T=The swamp monster is gaining on you. 
+
+T=You know you should keep running, but your heart feels as if it’s about to explode. 
+T=You have to stop. 
+
+T=You turn and stare right into the swamp monster’s bloody eyes. 
+T=“Neat costume,” you say hopefully. 
+
+T=Good try — but the swamp monster isn’t wearing a costume. 
+T=He’s real and this, unfortunately, is really ... 
+
+
+E=THE END 
+C=0

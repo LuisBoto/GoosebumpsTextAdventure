@@ -1,0 +1,23 @@
+T=You decide to wait for Big Al. 
+
+T=“Big Al has to free the freaks,” you say to Patty and Brad. 
+T=“If he doesn’t, we’ll tell him we’re calling the police!” 
+
+T=“Free the freaks?” Big Al says, bursting into the room. 
+T=“The freaks are free to go any time. This prison is just part of the show. 
+T=Did you pull that Tree us’ joke on him?” Big Al laughs heartily. 
+
+T=“He’ssss lying,” the Snake Lady says. “We’re prisonersssss.” 
+
+T=“Oh, come now,” Big Al says. “You’re not prisoners.” 
+T=And with that he unlocks all the cell doors. Then he turns to you and your friends. 
+
+T=“As you can see, the freaks are free. Now, come with me. 
+T=You haven’t even tried one game on the midway.” 
+
+T=“Don’t go with him. It’sssss a trick!” the Snake Lady cries. 
+
+T=Should you go with Big Al? 
+
+Q=Who’s telling the truth? Al or the Snake Lady? > go with Al_84/trust the sanke lady_102
+

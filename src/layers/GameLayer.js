@@ -82,6 +82,7 @@ class GameLayer extends Layer {
         var route = blockRoute+blockNumber+blockExtension;
         if (!this.urlExists(route)){
             this.printText("Please input a valid BlockID.");
+            this.awaitInput();
             return;
         }
         var file = new XMLHttpRequest();

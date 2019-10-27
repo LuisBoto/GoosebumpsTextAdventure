@@ -1,0 +1,24 @@
+T=“Karm marri odonna loma molonu karrano.” 
+T=You say the magic words and — the dummy comes to life! 
+
+T=He opens his mouth and speaks. 
+T=“Hey, you. Your face reminds me of a wart I once had removed.” 
+
+T=“Come on,” you plead. 
+T=“We’re the ones who brought you back to life. Aren’t you going to be nice to us? We need your help.” 
+
+T=“I’m sorry,” the dummy says. “I’m sorry you’re so ugly....” 
+T=Then he laughs at his own lame joke. 
+
+T=You stare at him and his face grows serious. 
+T=“You brought me to life,” he says slowly.
+T=“But now you are my slaves.”
+T=“Forever — until ...”
+
+
+E=“THE END.” 
+
+
+T=Wait! This isn’t the way this is supposed to end. 
+T=Quick —you have one last chance. 
+L=If the fortune-teller told you a secret number, input it now!

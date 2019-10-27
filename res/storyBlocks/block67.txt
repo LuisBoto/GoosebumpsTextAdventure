@@ -1,0 +1,25 @@
+
+T=Thrumpff! Your foot plows into the doctor’s stomach again. 
+T=But this time, it smashes right through it. And hits ... solid steel! 
+
+T=The crunch of metal echoes in the room — along with the doctor’s screams. 
+T=“Aiiii!” he wails like a siren. 
+
+T=You gaze into the gaping hole your sneaker made. 
+T=Thousands of circuits and wires burn and crackle inside it. 
+T=The doctor is a robot! Well, an ex-robot now. 
+T=Your kick totally destroyed him. 
+
+T=That’s the good news. 
+
+T=The bad news is headed for you. 
+T=It’s the monster with the blue horns and red, bulging eyes. 
+
+T=You scramble out of the net and dash toward the door. 
+T=But the monster is too quick for you. His tentacle arms shoot out and snatch you. 
+T=Giant suckers at the ends of his wrists circle your throat. 
+
+T=You gasp for air as the monster pins you against the wall. 
+T=Can you free yourself from his oozing grasp? 
+
+C=91
