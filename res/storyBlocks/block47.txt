@@ -15,6 +15,6 @@ T=You gaze down at your map. It’s called the House of Horrors. Hmmm.
 T=You love haunted houses. And this one really looks scary. 
 
 T=Now you’re not sure what to do. You won’t have time for everything. 
-T=Join Patty and Brad on the Space Coaster or go alone to House of Horrors? 
+T=Join Patty and Brad on the Space Coaster or go alone to the House of Horrors? 
 Q=Decide now. > Space Coaster_26/House of Horrors_64
 
