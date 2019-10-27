@@ -1,0 +1,19 @@
+T=You turn a corner and are instantly blinded by glaring lights. 
+
+T=You are standing in a room of mirrors. Walls. Floor. Ceiling. All mirrors! 
+
+T=Everywhere you gaze, you are met with reflections of yourself! 
+T=You take a few steps forward and — BONK! You hit your head on solid glass. 
+
+T=You move one step to the left, and a dozen copies of you move in that direction. 
+
+T=Totally dizzy, you close your eyes. 
+T=Maybe you can find the exit with your hands. 
+T=Keeping your eyes shut, you walk until your palms hit against another glass wall. 
+T=Then you hear a voice. “Come this way. Over here,” it calls. 
+
+T=You walk toward the voice — BONK — a solid wall again. 
+
+T=Finally, your hands find an open doorway! 
+T=It leads to a mirrored hallway that goes left and right. 
+Q=Which way will you go? > turn right_29/turn left_118

@@ -1,0 +1,19 @@
+T=“You’re lying!” you yell. “You are a robot.” 
+
+T=You quickly reach up with both hands and tug at his head. 
+T=His sharp jaws slash at you. But you’re fast. You hold on firmly and pull! 
+
+T=Oh, no! He really is a monster. And he’s not happy. 
+
+T=You know you’re dead meat, but you have to try one more time. 
+T=Just to make sure. You give his head one more tug. He laughs. 
+T=Then he gives your head a tug. 
+
+T=Sorry. You were doing so well. But now you’ve gone and lost your head. 
+
+T=The only way you’ll be able to face the challenge of the Carnival of Horrors now... 
+T=Is to close the book and begin another day. 
+T=At least then — you’ll have a head start. 
+
+E=THE END 
+C=0

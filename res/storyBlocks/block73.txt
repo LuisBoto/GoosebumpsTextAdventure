@@ -1,0 +1,28 @@
+T=Your reflexes are great. You jumped out fast enough and escaped the ghost — that ghost. 
+T=But you didn’t see the other one behind the car — waiting for you. 
+
+T=Your heart hammers away in your chest as it circles you. 
+T=Around and around and around. 
+
+T=“It’s all right,” you tell yourself over and over. 
+T=“It’s not real. This is just a ride in an amusement park.” 
+
+T=You’re still telling yourself that as the ghost plucks you off your feet. 
+
+T=His black lips part. 
+
+T=He opens his mouth — wider and wider. 
+T=Until it’s as wide as an entrance to a cave. 
+
+T=Then he stuffs you inside. 
+
+T=Instantly, you feel lightheaded, then light all over. 
+T=You peek down at your hands. 
+
+T=You can see straight through them. You’ve been turned into a ghost! 
+T=And as your senses fade, you hear a distant bell chime twelve times. Too bad. 
+T=The Carnival of Horrors will be one of your favorite haunts — forever! 
+
+
+E=THE END 
+C=0

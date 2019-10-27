@@ -1,0 +1,25 @@
+T=“Let’s head for the midway and play some games!” you say. 
+
+T=You, Patty, and Brad jog down a wide avenue. 
+T=Tents of every color line the street. Carnival music blares from loudspeakers. 
+
+T=You spot a green neon sign flashing above a yellow-striped tent. 
+T=The sign reads: madame zeno — fortune-teller. 
+
+T=“Excellent!” you exclaim. “I’m going in!” 
+
+T=You tell your friends you’ll catch up with them in a minute. 
+
+T=You lift the tent flap. Inside, one small candle flickers in the dark. 
+T=You hear a low voice call out, “Enter my chamber.” 
+
+T=There is Madame Zeno, sitting in the shadows. 
+T=She wears a long red dress dotted with brightly colored gems. 
+T=They shimmer in the candlelight. 
+T=Her black hair tumbles to her shoulders as she bends over a large crystal ball. 
+
+T=“Welcome,” she whispers. Then she reaches out and gently lifts your hand. 
+T=“Let me tell you your future.” 
+
+
+C=78

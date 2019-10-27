@@ -1,0 +1,21 @@
+T=Sorry. It’s not your lucky day. 
+T=As you dash toward the sign, the giant crane scoops the three of you up and drops you off into a hollowed-out log. 
+T=You barely have time to sit up straight before the craft reaches the waterfall! 
+
+T=You hold your breath as the log teeters on the fall’s edge.
+T=As it plunges over, you scream. 
+
+T=A hard spray smacks you in the face and drenches your clothing as you race down the long slide. 
+T=At the bottom, the log hits a pool of water and sinks. 
+
+T=You’re still holding your breath as you wait to bob to the surface again. 
+T=But it never happens. You keep going down. 
+
+T=Your last thought is that you’re going to set a world’s record for holding your breath underwater. 
+
+T=You’d better set a world’s record for closing the game and starting over again. 
+T=Maybe next time you dive in you’ll have better luck. 
+
+
+E=THE END 
+C=0

@@ -1,0 +1,26 @@
+T=The three of you duck inside the Hall of the Mountain King! 
+
+T=A painted backdrop of rounded, snowcapped mountains rises on your left. 
+T=Up in the mountains, a big stone castle rests in the sunshine.
+T=A group of cheerful elves picks flowers in the castle’s garden. 
+
+T=To your right, you spot the ride — wooden carts pulled by real horses. 
+T=“Come on!” you call to your friends. “Jump in a cart. This is great. 
+T=We’ll be out of here in no time.” No time — that reminds you. 
+T=You glance at your watch. 
+T=11 : 45 ! 
+
+T=You all scramble into one of the carts and grab the reins.
+T=Your horse plods forward, and you pass through a painted stone archway. 
+
+T=You gasp. Everything in the painted backdrop is now in front of you. 
+T=And it has suddenly become real. But different! 
+
+T=The snowcapped mountains rise to black, jagged peaks that pierce the sky. 
+T=The big stone castle huddles on a scary, dark hill. 
+T=And the elves — they aren’t picking flowers. 
+
+T=They’re ... 
+
+
+C=96

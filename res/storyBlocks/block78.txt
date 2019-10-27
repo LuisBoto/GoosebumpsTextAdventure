@@ -1,0 +1,16 @@
+T=Madame Zeno studies your hand closely. 
+T=She traces the lines in your hand with her soft fingers. 
+
+T=“I see horror in your future. In your immediate future,” she warns. 
+
+T=“Wh-what kind of horror?” you stammer. “What do you mean?” 
+
+T=Madame Zeno releases your hand. She picks up a strange deck of cards.
+T=She spreads them out on the table. 
+T=You notice the cards have pictures — a headless man, a bloody sword, a large, evil eye. 
+
+T=She gathers up all the cards and flips the deck over. 
+T=Then she deals out a red card and a blue card. 
+
+T=“Turn one over,” she commands. “Learn your fate.” 
+Q=Which one do you pick? > red_14/blue_59

@@ -1,0 +1,22 @@
+T=You step up to the Guess Your Weight on Mars booth.
+T=A woman in a space suit motions you inside a gate. 
+T=You pass through and find yourself in the middle of a courtyard that looks just like a miniature launching site:
+T=Complete with its own rocket! 
+
+T=“Security check,” the lady says as she presses your hand onto a fake scanner. 
+
+T=“So how does this game work?” you ask. 
+
+T=“I’ll guess how much you weigh on Mars,” she explains. 
+T=“Then you’ll enter the planet simulation chamber and stand on the scale. 
+T=If I’m stumped by more than one pound up or down, you win a giant candy bar.” 
+
+T=“What if you guess right?” 
+
+T=The space lady doesn’t say anything at first. She just smiles. A nasty smile. 
+T=Then she answers. 
+
+T=“You lose,” is all she says. 
+
+
+C=18

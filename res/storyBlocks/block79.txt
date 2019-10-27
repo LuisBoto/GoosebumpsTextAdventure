@@ -1,0 +1,21 @@
+T=The doctor leans over. He’s so close now, his sour breath fills your nostrils. 
+T=Then his fingertips brush your hand and — POW! 
+T=Your foot flies into his stomach! A direct hit! 
+
+T=But nothing happens. 
+
+T=He doesn’t scream. He doesn’t even moan. 
+T=In fact, he doesn’t seem to notice at all. 
+
+T=He simply smiles at you. 
+
+T=Now you’re scared. Really scared. 
+T=But you know you have to do whatever it takes to get out of there. 
+T=You have to find your friends and escape from this Carnival of Horrors. 
+
+T=You gather up every ounce of courage and strength you have — and kick him once more. Harder! 
+
+T=And this time something does happen — BIG TIME! 
+
+
+C=67

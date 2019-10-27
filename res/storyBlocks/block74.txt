@@ -1,0 +1,13 @@
+T=Round and round you go. The world is a blur of colors. 
+T=You can hear the crowd screaming. “FI-NAL! FI-NAL!” 
+
+T=And the wheel stops. 
+
+T=“Ahhhhhh,” the crowd gasps. 
+
+T=What does it mean? 
+
+T=“YOU WIN,” Big A1 says. “Now come this way to collect your prize and home.” 
+
+
+C=131

@@ -1,0 +1,30 @@
+T=You dig deep into the side pocket of your jeans — and find it!
+T=The chocolate bar you won. 
+
+T=It’s a good thing you didn’t eat it all — but will the vulture go for it? 
+
+T=Without warning, the big bird starts his final approach, diving straight for the nest. 
+T=You pull out the candy and wave it frantically in front of him. 
+T=“Treat! Treat!” you holler. These words make your dog at home go wild. 
+T=But will it work on the vulture? 
+
+T=Yes! He cracks open his claws — just enough for you to wiggle loose.
+T=Then you’re falling, falling. 
+
+T=You’ve landed on a giant trampoline. 
+
+T=Fwanggg! 
+
+T=Now you’re going up again. Higher this time. Now you’re falling again. 
+
+T=Fwanggg — you’ve bounced up even higher this time. 
+
+T=Every life has its ups and downs, but it looks as if you’ll be bouncing up and down forever.
+T=And boy, is it fun! 
+
+
+E=THE END! 
+E=THE END! 
+E=THE END! 
+E=THE END! 
+C=0
