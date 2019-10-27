@@ -17,7 +17,7 @@ class MusicCommand extends Command {
             }
             if (userInput==="N") {
                 userInput = "";
-                stopAmbientMusic();
+                stopMusic();
                 controls.enter = true;
                 return;
             }
