@@ -1,0 +1,25 @@
+T=Those eyes behind the alligator snout — those beady eyes. 
+T=You should have recognized them before. It’s Big Al. 
+
+T=“Hey! You did a great job here,” he says warmly. 
+T=“You’ve really got the stuff for the Carnival of Horrors.” 
+
+T=“Uh, thanks,” you mumble. “But I really have to go home now.” 
+
+T=“What’s the rush?” he asks, patting you on the shoulder. 
+T=“Aren’t you having fun?” 
+
+T=Fun? you think. Crushed between solid walls. 
+T=Then attacked by a bulging-eyed monster. 
+T=Fun? No. This isn’t fun. 
+T=This is weird. 
+
+T=“Uh, yeah. It’s been really great. But, um, I really do have to get home,” you stammer. 
+T=“So if you’ll just take me to wherever Patty and Brad are — and show us the way out — we’ll be going.” 
+
+T=“I’m afraid that isn’t possible,” Big Al says. 
+T=“Just open the door and you’ll understand.” 
+
+
+T=You have no choice. 
+C=117

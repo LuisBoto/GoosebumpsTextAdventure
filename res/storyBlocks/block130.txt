@@ -1,0 +1,15 @@
+T=You and your friends squeeze into the cannon. 
+
+T=“Ouch! You’re sitting on my hand,” Brad whines. 
+
+T=But you don’t have time to apologize. 
+
+T=“Do you smell something ... burning?” you ask. 
+
+T=BOOM! There’s a tremendous explosion. You fly through space.
+T=You are headed for a fence that encloses the carnival, and the field beyond. 
+
+T=Will you make it out of the park? 
+
+
+C=101

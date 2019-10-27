@@ -1,0 +1,22 @@
+
+T=The Monster Blood has grown so big — now you can’t see over it or around it. 
+
+T=“Run for your lives!” Patty screams. But reaching the door is impossible. 
+
+T=The mound of green slime is bearing down on you. 
+T=Fast! You stand frozen to the spot. Terrified. 
+T=And then — just in time — you, Patty, and Brad leap to the side. 
+T=And the Monster Blood slams into the wall with a crushing force — and plows right through it. 
+
+T=You stare at the giant gaping hole in the wall. 
+T=Quickly, the three of you jump through the opening. 
+T=You are standing outside the main gate — where you came in! 
+
+T=There’s a wide path of destruction across the field and the forest beyond. 
+T=From somewhere, a clock chimes twelve times, sending a chill down your spine. 
+T=And when you peer back at the carnival, it has disappeared. 
+T=All that’s left is a spooky silver mist. 
+
+
+E=THE END
+C=0 

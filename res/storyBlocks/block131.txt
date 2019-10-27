@@ -1,0 +1,11 @@
+
+T=SUCKER! 
+
+T=You didn’t really think you could get out this easily, did you? 
+
+T=Check out the title of this book: Escape from the Carnival of Horrors. 
+T=Horrors! You need to face a lot more horrors — and then (maybe) you’ll escape. 
+
+
+T=Quick! 
+C=116 

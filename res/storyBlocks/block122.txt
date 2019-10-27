@@ -1,0 +1,19 @@
+T=The creature slides one step toward you, and with a burning stare says:
+T=“I am not a robot. I am not going to shut down. 
+T=So don’t bother with any of your silly, human tricks!” 
+
+T=You stare at him. You study him hard. Is he lying? 
+T=Is he a robot like the other two? 
+T=Or could he be a lot more dangerous? 
+
+T=Your knees begin to tremble when you think about never going home — 
+T=never seeing your family and friends ever again. 
+T=Tears start to sting your eyes. 
+T=Angry tears! 
+T=No carnival — not even a Carnival of Horrors — is going to defeat you! 
+
+T=You stare deeply into the evil eyes of the creature hovering before you. 
+
+Q=Robot? Real monster? You finally decide! > robot_81/real monster_110
+
+

@@ -1,0 +1,16 @@
+T=You’ve got to figure out what you weigh on Mars. Fast. But how? 
+
+T=You’re about to give up when you notice a flashing sign. 
+T=It reads: 
+E=THE GRAVITY ON MARS IS ALMOST 40 PERCENT OF WHAT IT IS ON EARTH. 
+T=Okay, now you can figure it out. 
+
+T=Multiply your real Earth weight by four. 
+T=Now drop off the last digit. 
+T=For example, if you weigh 90 pounds, 90 x 4 = 360. 
+T=Dropping off the last digit, you get 36 for your weight on Mars. 
+
+T=If you don’t want to do the math, you can leave it to luck. Just guess. 
+
+Q=What do you think your Mars weight is? > 37 to 39_53/less than 37_22/more than 39_22
+

@@ -1,0 +1,27 @@
+T=“This way!” You wave to Patty and Brad. 
+
+T=The three of you turn to the left and keep running — straight into a pond! 
+
+T=“Why didn’t you tell us to stop?” Patty whines. 
+
+T=“Don’t complain to me!” you shout back. “We followed you through the fence!” 
+
+T=You turn around and slog your way back to shore. 
+T=Patty and Brad make it there first. You are a few feet away — when you see it. 
+
+T=An alligator. 
+
+T=With its mouth gaping open — revealing two rows of razor-sharp teeth. 
+
+T=You freeze. 
+
+T=Patty spots the alligator and yells, “Quick! There’s a log! Jump on it!” 
+
+T=You scramble up on the log, but it’s no use. You’re still an easy target. 
+
+T=The alligator opens its huge mouth even wider. 
+T=He slithers right up to the log. And you can tell he’s ready. 
+T=Ready to crunch down on you! 
+
+
+C=43

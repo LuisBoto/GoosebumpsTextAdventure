@@ -1,0 +1,27 @@
+T=You open the door and climb a steep ramp that curves around and around. 
+T=It’s cold and dark inside. Halfway up the ramp, you stop. 
+T=There’s another sign: 
+E=WARNING! — YOU MAY BE THE ONE TO SLIDE TO YOUR DOOM! 
+
+T=You continue up the ramp. 
+T=You finally make it to the top, and find yourself standing on a wide, dimly lit platform.
+T=A row of long, curving slides stretches out before you. 
+T=The slides are numbered from one to ten. 
+
+T=You think hard. The Doom Slide. You know you’ve heard about it before. 
+T=But where? Where was it? 
+
+T=And then you remember! It was in a GOOSEBUMPS book you read! 
+T=One Day at HorrorLand. 
+
+T=Now you know you’re in big trouble. 
+T=Because you remember all about the Doom Slide from the book. 
+T=You remember that if you pick the wrong slide...
+T=you’ll spend the rest of your life sliding and sliding — forever! 
+
+T=Which number is the Doom Slide? Which one? 
+
+
+T=If you know which number slide is the Doom Slide, choose a slide that is not the Doom Slide. 
+T=If you don't or can’t remember, you’ll have to leave it to luck. 
+Q=Pick a number between 1-10. > 1_121/2_95/3_68/4_121/5_121/6_68/7_95/8_68/9_95/10_68

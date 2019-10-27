@@ -1,0 +1,26 @@
+T=You grab the sides of the slide and lower yourself down. 
+T=The second you sit, the slide’s floor tilts up beneath you and propels you forward. 
+
+T=You shriek! 
+
+T=You raise your arms and scream louder. You slide faster and faster. 
+T=In total darkness. Darkness so black, you can’t even see your own feet in front of you. 
+
+T=Your eyes dart frantically from side to side. 
+T=Faces suddenly appear in the darkness in bright flashes of light. 
+T=Faces of hideous monsters with deformed heads and oozing flesh. 
+
+T=But you’re moving too fast to focus on them. 
+T=You slide and slide — until the faces stop flashing and you’re covered in the thick, heavy blackness again. 
+
+T=You scream as you round a sharp curve. Your head is spinning. 
+T=You pick up speed. 
+
+T=When will it end? 
+
+T=Then you hear the screams. Chilling screams that echo through the darkness. 
+
+T=Oh, no! You must have picked the Doom Slide! 
+
+
+C=63

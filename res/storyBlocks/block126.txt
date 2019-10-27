@@ -1,0 +1,13 @@
+T=“Yay! Our hero!” the freaks cheer as they bolt out of their cells. 
+
+T=You follow the giant through a side exit.
+T=And in no time, you’re leading all your new friends to your house. 
+
+T=You’re sure your parents won’t mind taking them in. 
+T=After all, how much can a three-hundred-pound giant, a five-hundred-pound fat lady, and a three-headed man eat? 
+T=Hmmmm. Better not answer that question. 
+
+T=Just be happy that you’ve come to ... 
+
+E=THE END
+C=0 

@@ -1,0 +1,24 @@
+
+T=You’re not fast enough to get away from the ghost. 
+T=You’re running now, but the ghost swoops down in front of you. 
+T=You plow into him — and pass right through him! 
+
+T=The carnival people are swarming after you. 
+T=They don’t want you to leave the carnival. 
+
+T=“Hurry!” you yell to your friends — only three minutes to midnight! 
+T=You dash off in one direction, then another. 
+T=The carnival people are approaching from every which way. 
+T=They carry torches with flames that leap high in the air. 
+
+T=You steal a glance at your watch — 11:58. 
+
+T=“We can’t let them catch us!” you scream. “Let’s hide!” 
+
+T=But where can you hide? Up ahead you see a gigantic cannon. 
+T=All three of you could fit easily in there. 
+
+T=You also spot a baby ride — the baby choo-choo train — maybe you could squeeze into that. 
+
+Q=Quick! Pick one — and hope for the best. > cannon_130/choo choo_128
+

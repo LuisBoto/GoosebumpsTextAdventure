@@ -1,0 +1,7 @@
+T=“FI-NAL! FI-NAL! FI-NAL!” you hear the crowd yelling as you spin round and round. 
+
+T=You’re getting dizzy. Really dizzy. So dizzy that you faint. 
+T=Your eyes flutter open...
+
+
+C=112

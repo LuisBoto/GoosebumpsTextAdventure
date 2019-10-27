@@ -1,0 +1,15 @@
+T=The fortune-teller said this number might save your life. But how? 
+
+T=Then you see it. In the corner. 
+T=A tall silver locker with the number 132 painted in red. 
+
+T=“In here,” you say, opening the door to the locker. 
+T=You push Patty and Brad inside. 
+
+T=As soon as you close the door, the locker begins to rattle and shake. 
+T=You’re nearly blinded by a bright, white light. 
+T=You hear a loud whooshing sound. And then all is silent. 
+T=The door pops open — and you’re amazed at what you see. 
+
+
+C=21

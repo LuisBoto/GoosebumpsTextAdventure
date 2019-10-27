@@ -1,0 +1,31 @@
+
+T=You squeeze into the choo-choo and scrunch down. 11:59. 
+
+T=Lights from the carnival people’s torches sweep over you. 
+T=Their foul smell fills your lungs. 
+
+T=The blood pounds in your temples. 
+
+T=You’re sure they’re going to find you. But you’re trapped now. 
+
+T=There’s no way out. 
+
+T=You hear someone shout in the distance. 
+T=“Closing time!” And then you hear a bell start to chime ... 
+
+T=... Midnight! 
+
+T=“One, two, three,” Brad counts the chimes. 
+
+T=You want to strangle him! 
+
+T=“Four, five ...” 
+
+T=Suddenly, the kiddie train starts to move. 
+
+T=“Six ... seven ... eight ...” 
+
+T=You sit up and what you see is the biggest shock of this whole horrible night.... 
+
+
+C=70

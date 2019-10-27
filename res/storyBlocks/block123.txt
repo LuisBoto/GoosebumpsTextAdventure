@@ -1,0 +1,20 @@
+T=“The Final Challenge,” Big A1 announces. And the crowd goes wild. 
+
+T=Then he turns to you and says, “Remember — the fun games are over. 
+T=Now you are playing for your life.” 
+
+T=“You go first,” Big Al says to you. 
+T=You see Brad and Patty taken off to the side by a huge man in a black hood. 
+
+T=Two red-haired dwarfs in clown costumes scurry up the steps. 
+T=To your surprise, they fit you with new high-top sneakers — 
+T=sneakers with metal studs running up the backs. 
+T=This is going to be some kind of race, you think. 
+T=But then you change your mind — when they snap a heavy, metal helmet on your head. 
+
+T=The crowd’s cheers grow louder. Big Al throws a switch. 
+T=The curtain behind you parts and — Whammo! 
+T=The wall behind the curtain turns into a super magnet. 
+T=You go zinging to the wall like a dart to a bull’s-eye. 
+
+C=25
