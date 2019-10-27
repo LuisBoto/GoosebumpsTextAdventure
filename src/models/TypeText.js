@@ -1,4 +1,4 @@
-class TypeText extends Text{
+class TypeText extends Text {
 
     constructor(value, x, y) {
         super(value, x, y);
@@ -11,6 +11,8 @@ class TypeText extends Text{
         context.font = "25px Monospace";
         context.fillStyle = "white";
         context.textAlign = "left";
+        if (this.center)
+            context.textAlign = "center";
         context.fillText(this.value.substring(0, this.counter), this.x, this.y);
     }
 
