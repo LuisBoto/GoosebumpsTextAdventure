@@ -1,0 +1,18 @@
+T=You turn left. Somewhere ahead of you, you hear laughter. 
+
+T=“Is somebody there?” you call out. 
+
+T=Silence. 
+
+T=You stare at your reflections in the mirrored hall. 
+
+T=Am I trapped? you wonder. Am I in real danger? 
+T=Or is this all a big, scary joke? 
+T=Your heart begins to race. 
+
+T=You inch forward a few more steps — moving toward the laughter. 
+T=Slowly. 
+T=“Over here,” a voice calls again. 
+T=But now the voice seems to be coming from behind you! 
+E=HELP!
+C=36

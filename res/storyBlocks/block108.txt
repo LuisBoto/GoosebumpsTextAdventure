@@ -1,0 +1,15 @@
+T=“We’ve got to get out of here, it’s almost midnight,” 
+T=you say as you run toward the Halloween Express ride. 
+
+T=“Hey, maybe we should try one of these cars,” 
+T=Brad says, pointing to the red and orange cars that run on a track. 
+
+T=The three of you crowd into a little car that’s really meant for two. 
+T=You jam your foot on the gas pedal, and you’re flying! 
+
+T=“All right!” Brad cheers. “We’re on our way home! 
+T=Hey, I wonder why they call this Halloween Express?” he asks. 
+
+T=You turn the wheel sharply to the left, and then you know why.... 
+
+C=54

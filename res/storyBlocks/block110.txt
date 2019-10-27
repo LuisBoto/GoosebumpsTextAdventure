@@ -1,0 +1,23 @@
+
+T=Something tells you that this monster is not a robot. This one is for real. 
+T=Maybe it’s the way he stares into your eyes. 
+T=Or maybe it’s the rows and rows of razor-sharp teeth jutting from his mouth. 
+
+T=You take a step back. He takes a step closer. 
+T=A drop of his drool drips on your hand. It sizzles and burns. 
+
+T=This is the end, you figure. You’ll never escape the Carnival of Horrors. 
+T=Never see your family or Patty and Brad again. 
+
+T=The monster lifts his gigantic, clawed hand. He waves it over your head. 
+
+T=And you wait for the searing pain as it plunges down to strike you. 
+
+T=But that’s not what happens. 
+
+T=The monster slowly lowers his hand and clutches at his own neck, and then... 
+T=— pulls his own head off! 
+T=And when you discover what’s underneath, you know you’re still in big trouble! 
+
+
+C=133

@@ -1,0 +1,22 @@
+T=Your pulse pounds in your ears as you carefully lift yourself out of the car. 
+T=The tunnel is dark and musty and really creepy. 
+T=Anything could be lurking in the shadows. 
+
+T=This must be part of the ride, you reason. 
+T=And the more you think about it, the more convinced you are. 
+T=You’re scared. But you have to admit, this is pretty cool. 
+
+T=In the distance, you spot several red lights that seem to lead to other dimly lit tunnels. 
+T=You cautiously head toward one of them. Overhead something dark and slimy drips. 
+T=Splattering on the top of your head. Stinging your forehead. 
+
+T=As you desperately try to wipe the burning slime away, something grabs you by the knees! 
+
+T=Aaaah! You look down. A pair of red-rimmed eyes meet yours. 
+T=It’s a dwarf with scraggly red hair and a toothless smile. 
+
+T=“Want me to lead you out of here, kid?” he asks. 
+T=You’re about to follow the dwarf, but then you stop. 
+T=Is he part of the ride? He looks really evil. 
+Q=What do you do? > follow the dwarf_99/not follow him_33
+

@@ -1,0 +1,28 @@
+T=“Unless what?” you scream. “Tell me!” 
+
+T=“You can escape the Carnival of Horrors if you leave before closing time.” 
+T=“When is closing time?” you shoot back. 
+
+T=“When the last ride stops....” the lady whispers. “At midnight. ” 
+
+T=You glance at your watch — 11:40. Twenty minutes — that’s not so bad. 
+T=But how do you get out of here? 
+
+T=As if the lady can read your mind, she says, “There’s only one right way.” 
+T=Then all around you, the crowd begins to chant. 
+
+T=“ONLY ONE RIGHT WAY, ONLY ONE RIGHT WAY.” 
+T=They repeat it over and over again. 
+
+T=“What is it?” you scream. “Which way?” 
+
+T=It’s useless. They’re not going to tell you. 
+
+T=But it’s not midnight yet. There’s still time to figure it out. 
+
+T=Until the floor begins to tremble. And the walls begin to shake. 
+
+T=Earthquake! 
+
+
+C=42

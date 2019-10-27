@@ -1,0 +1,26 @@
+T=You open the door and enter a room bursting with people who seem to be waiting for you. 
+T=You think that’s weird until you study them — and realize something even stranger. 
+T=They’re all dressed up in old-fashioned costumes. 
+
+T=“Welcome to the Carnival of Horrors,” a tall woman with a red parasol says, smiling. 
+T=“Nice of you to join us.” 
+
+T=The Carnival of Horrors. The words send shivers down your spine. 
+
+T=The woman with the parasol whispers in your ear:
+T=“Don’t you want to know the secret of the Carnival of Horrors?” 
+
+T=You nod yes. 
+
+T=“The Carnival of Horrors comes alive in a different place and a different time each night.
+T=Tonight we’re in your town. Tomorrow we could be in another country! 
+T=But every place we stop, we invite kids like you to join us....” 
+
+T=“Thanks for the invitation,” you say, “but I gotta go.” 
+
+T=“I’m sorry.” The lady chuckles. 
+T=“You can never escape from the Carnival of Horrors,” she says solemnly. 
+T=“Unless ...” 
+
+
+C=106

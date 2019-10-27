@@ -1,0 +1,13 @@
+T=You make it! You make it out of the park! 
+
+T=You also make it out of the state! 
+
+T=In fact, the last time anyone saw you, Patty, and Brad, you were all a tiny blip on NASA’s radar screen. 
+
+T=Congratulations! You escaped from the Carnival of Horrors. 
+
+T=Happy landings! 
+
+
+E=THE END 
+C=0

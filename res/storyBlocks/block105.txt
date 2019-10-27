@@ -1,0 +1,20 @@
+T=It’s a tree branch! Grabbing at you. Tugging, tugging at your hair. 
+T=You can’t break free. Its gnarly stubs dig in deeper as you struggle. 
+
+T=Suddenly, you feel something wrap itself around your arms. Then your legs. 
+T=Closing in tighter. Tighter. 
+
+T=You gaze down and see them — black knobby tree limbs twisting around you. 
+T=Strangling you. 
+
+T=You drop hold of the steering wheel and begin to claw at the branches, ripping them away. 
+
+T=And then you peer up — and see a terrifying sight. 
+T=It’s a huge tree. And you’re headed straight for it! 
+T=You grasp the steering wheel to regain control of the boat. 
+T=The tree is just inches away. 
+
+T=Are you going to CRASH?! 
+
+
+C=90

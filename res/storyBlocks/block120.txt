@@ -1,0 +1,22 @@
+
+T=The bad news is the Snake Lady fooled you. 
+
+T=“Throw them into the large cell with Harold and all the other prisoners,” Big Al commands. 
+
+T=You are shoved into a dark cell. You hear a click. You’re locked in. 
+T=As the Snake Lady leaves with Big Al, you can hear their laughter echo down the hall. 
+
+T=You glance into the other cells and think, the freaks are prisoners. 
+T=They do need our help. 
+T=Then you peer into the darkness of your cell — to find out who Harold is. 
+
+T=There’s no way you could miss him. Harold is a giant. 
+T=He’s huge — twice as big as a football player. 
+T=His hands are, in fact, the size of two footballs. 
+T=His arms look like tree trunks. 
+
+T=At first you are afraid of him, but then you think, Hey! He’s trapped, too. 
+T=Maybe we can convince him to help us. And then you get a big idea! 
+
+
+C=28

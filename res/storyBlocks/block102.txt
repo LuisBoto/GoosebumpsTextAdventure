@@ -1,0 +1,23 @@
+
+T=“I’m not going anywhere with you, Big Al. I believe the Snake Lady!” 
+
+T=“So do I,” says Patty. 
+
+T=“Me, too!” Brad echoes. 
+
+T=“That’s too bad,” Big Al says. Then he turns to the Snake Lady. 
+
+T=“And as for you, Miss Reptilia — I told you, you’ve been overacting. 
+T=If these kids believe you, we won’t be able to torture them with our real horrors.” 
+
+T=“Ssssssorry, bosssssss,” she says. 
+T=“Sssssso what do you want me to do with them?” 
+
+T=You can hardly believe it! Real horrors? 
+
+T=“What kind of carnival is this?” you shout. 
+
+T=“The Carnival of Horrorssssss,” the Snake Lady answers — and that’s the good news. 
+
+
+C=120

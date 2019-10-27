@@ -1,0 +1,28 @@
+
+T=Yeoow! Someone splashes cold water in your face. Your eyes open. 
+
+T=“Come on! Wake up! It’s almost show time,” a raspy voice says. 
+
+T=“Show time?” you say, gazing into the eyes of a dwarf. “What show?” 
+
+T=“The Freak Show. You are the Amazing Siamese Triplets.” 
+
+T=You glance around and see Patty on one side of you and Brad on the other. 
+T=You try to pull away from them, but you can’t. 
+
+T=“We’re stuck together with some kind of glue,” Patty says. 
+
+T=“It isn’t glue,” Brad argues. 
+
+T=“Is too!” 
+
+T=“Is not!” 
+
+T=Well, whatever it is — you are stuck. 
+T=Stuck between your arguing friends for a long, long time — like forever. 
+T=And here’s something you can’t argue about. 
+T=This really is ... 
+
+
+E=THE END 
+C=0

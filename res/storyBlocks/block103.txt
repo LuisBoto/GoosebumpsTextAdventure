@@ -1,0 +1,22 @@
+
+T=“We’ve got to jump,” you tell Patty and Brad. “It’s our only chance.” 
+T=“Okay,” Brad agrees as your cart inches up to the chopping elves. 
+
+T=“Come on,” you cry. “Now!” But Brad is too paralyzed with fear to move. 
+T=You and Patty grab him and haul him toward the side of the cart. 
+
+T=Your cart has reached the elves! One of them smirks as he lifts his ax. 
+
+T=It’s right above your neck. 
+
+T=You picture your head tumbling down the side of the mountain. 
+
+T=With a loud cry, all three of you jump. 
+T=You land with a thud on a rocky ledge. 
+T=It breaks your fall. But the rock is too weak to hold all of you. 
+
+T=You scream again as the edge tears loose and the world drops from under your feet. 
+T=You tumble over and over, down the side of the mountain. 
+
+
+C=109

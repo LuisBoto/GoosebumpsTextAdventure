@@ -1,0 +1,25 @@
+
+T=There’s nothing in your pocket but lint. 
+
+T=“Help! Save me!” you cry. 
+
+T=The vulture swoops down and drops you in the nest. 
+
+T=The baby vultures approach. 
+
+T=Mouths open — ready to peck you to death ... 
+
+T=But — good news! They don’t eat you. You fall out of the nest instead. 
+
+T=Please, close the book fast, or the next sound you hear will be your body; 
+T=hitting the ground with an awesome thud. 
+
+E=THUD! 
+
+T=Not fast enough. Okay, don’t go to pieces.
+T=Pull yourself together and prepare to visit the Carnival of Horrors again — 
+T=the next time you’re brave enough to open this book! 
+
+
+E=THE END 
+C=0

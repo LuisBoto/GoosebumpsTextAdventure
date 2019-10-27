@@ -1,0 +1,19 @@
+T=ZAP! 
+
+T=Big Al throws a switch and the magnet shuts off. 
+T=You come flying down to earth — right where Brad and Patty are waiting. 
+
+T=“I played your dumb game. Now, let us go!” you tell Big Al. 
+
+T=Big Al doesn’t answer. But the crowd does. 
+T=“SUD-DEN DEATH! SUD-DEN DEATH! SUD-DEN DEATH!” 
+
+T=The crowd surges toward you. They are not friendly. 
+T=They back you up against a wall. You’re trapped. 
+
+T=Trapped by a mob! 
+
+T=You reach into your pocket, hoping to find something that might help you. 
+T=Something to save you ... 
+
+Q=Do you have a can of Monster Blood? > y_97/n_27

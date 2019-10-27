@@ -1,0 +1,18 @@
+T=You push open the red door. Another tunnel lies beyond it. 
+T=You follow its twists and turns, and you realize that you’re sloshing through cold muddy water. 
+T=It grows deeper and chillier as you go. 
+
+T=With a cold shudder, you decide to head back — until you hear a slurping noise behind you.
+T=Whirling around, you watch in horrible fascination as giant earthworms crawl out of the mud. 
+T=Gross! 
+
+T=No way you’re heading back there. 
+T=You clench your teeth and slog onward. 
+T=Up ahead, you see a dim green light. Great! An exit. 
+
+T=As you reach the end of the tunnel, you hear a low growl behind you. 
+T=At first you try to pretend it’s your imagination. 
+T=But there’s no mistaking the sound of thudding footsteps. Getting closer. 
+T=And closer. 
+T=And now it’s breathing down your neck! 
+C=61

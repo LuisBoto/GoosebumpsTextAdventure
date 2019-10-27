@@ -1,0 +1,24 @@
+T=This is your lucky day. 
+
+T=You duck as the crane swings over your head. 
+
+T=“Run!” you shout to your friends. 
+
+T=You glance at your watch — 11:55. 
+T=If you’re really lucky, you can still make it out of the carnival by midnight. 
+
+T=You can see the exit up ahead. 
+T=As you charge through the gate, you feel really hopeful — until you run into Big Al. 
+
+T=He blocks the exit with his huge body. 
+T=His massive hands are planted on his hips. 
+T=“No one escapes from the Carnival of Horrors!” he roars. 
+
+T=You’ve got to find a way out. Now! 
+
+T=To your right is the entrance to Halloween Express — you could try that. 
+
+T=Or maybe you should run down a different path. 
+T=There’s got to be more exits around here somewhere. 
+
+Q=Choose fast! > go to the halloween express_108/run down a different path_5

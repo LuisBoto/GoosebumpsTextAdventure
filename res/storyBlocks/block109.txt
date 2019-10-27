@@ -1,0 +1,25 @@
+T=You squeeze your eyes shut and wait for the crash. Finally, you land. 
+T=You glance up. You’re at the foot of the Log Flume ride. 
+
+T=You, Patty, and Brad have lots of cuts and bruises, but you’re okay! 
+T=Terrific! you think — until you spot the army of elves with their axes. 
+T=They’re rushing down the mountain toward you! 
+T=The only escape is to enter the flume ride, so you dash inside. 
+
+T=The Log Flume reminds you of a western logging camp;
+T=complete with log cabins, trees, trucks, and a sparkling blue lake. 
+
+T=In the distance, you can hear the buzz of chain saws. 
+T=And down by the lake, giant cranes pick up logs and plop them in the water. 
+T=Some of the logs are hollowed out in the middle with seats for passengers. 
+T=As you watch, the current catches one. 
+T=It glides to the edge of a waterfall, plunges over, and shoots down. 
+
+T=As you glance around, you spot an exit sign. 
+
+T=Then to your horror, you see a giant crane swinging your way. 
+T=“Duck!” you scream. 
+
+T=Will you make it to the exit? Is this your lucky day? 
+Q=What day is today? > Monday_114/Tuesday_71/Wednesday_114/Thursday_71/Friday_114/Saturday_114/Sunday_71
+

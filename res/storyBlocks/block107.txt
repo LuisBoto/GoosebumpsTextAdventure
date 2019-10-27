@@ -1,0 +1,21 @@
+
+T=“Sorry, Brad. I think Patty’s right,” 
+T=you tell him as you turn toward the Hall of the Mountain King. 
+T=“I think I spotted an exit there when we first came in.” 
+
+T=Patty runs ahead. “Look!” she cries out. 
+T=“There’s the path. It leads past the Hall of the Mountain King to the exit.” 
+
+T=“Yeah, but who are those people up there?” Brad asks. 
+T=“They’re blocking the way.” 
+
+T=You peer up ahead and see them — the people in the old-fashioned clothes. 
+T=And they’re still chanting — “Only one right way, only one right way. ” 
+
+T=“They’re not going to let us out!” Brad panics. 
+
+T=“Okay. Okay. I have an idea,” you say calmly. 
+T=“Let’s go into the Mountain King ride — maybe we can jump off at the end and sneak past them.” 
+
+Q=Do you have another choice? No.> go on the mountain king ride_75/go on the mountain king ride_75
+

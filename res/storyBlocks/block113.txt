@@ -1,0 +1,25 @@
+
+T=Help some freaks? That’s a good one! You laugh. 
+
+T=You think about Madame Zeno, the fire, and the disappearing tent. 
+T=Totally cool! You wonder who thought up such awesome special effects. 
+
+T=You can’t wait to tell Brad and Patty all about it. 
+
+T=You search for your friends in the big wooden booths that line the midway. 
+T=Instead, you find incredible games of chance. 
+T=Some test your eye-hand coordination. Others require pure luck. 
+T=But they all offer the most amazing prizes you’ve ever seen — phones, video games, fifteen-speed mountain bikes. 
+T=You can’t wait to play! 
+
+T=You spot a booth across the midway with a crowd gathered in front. 
+T=That’s odd, you think. Didn’t Big Al say we were the only people at the carnival tonight? 
+T=You wonder if your friends are in the crowd. You move closer. 
+
+T=“Oh. I get it,” you say aloud. “These people must work at the carnival.” 
+
+T=You’re about to call out to them. Until you see their eyes. 
+T=Strange, haunted eyes. 
+
+
+C=16

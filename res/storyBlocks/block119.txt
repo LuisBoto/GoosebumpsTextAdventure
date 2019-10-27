@@ -1,0 +1,18 @@
+T=You take charge of the reins to urge the horse on. 
+
+T=“Giddyap, boy,” you and Patty shout. 
+T=But your horse won’t move any faster. 
+T=You shoot a glance up ahead. The elves are chopping ... 
+T=and a shiny blade ... 
+T=is now ... 
+T=right over ... 
+T=your head! 
+
+T=“No,” you scream. “NO! Let me out of here.” 
+
+T=You feel a sharp pain. 
+T=And you realize you’ve just had the shortest haircut of your life. 
+T=Unfortunately, they took a little too much off the top. 
+
+E=THE END 
+C=0
