@@ -1,5 +1,5 @@
 T=You’re staring at a sign that reads: 
-T=“World’s freakiest freak show!”
+E=“World’s freakiest freak show!”
 T=The three of you gape at the pictures. 
 
 T=There’s the Three-Headed Man with the ugliest collection of faces you’ve ever seen. 
