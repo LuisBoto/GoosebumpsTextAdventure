@@ -1,0 +1,31 @@
+T=The ride stops. 
+
+T=Dead. 
+
+T=You are sitting in the dark. 
+
+T=Nothing is moving. 
+
+T=“Patty! Brad!” you call. 
+
+T=Silence. 
+
+T=Why don’t they answer? They have to be there. 
+
+T=You try to twist around. 
+T=But you’re locked in your harness and clamped in your headrest. 
+
+T=Blinking in the dim light, your eyes dart to the left. 
+T=Then to the right. You spot dozens of empty space rockets lining the walls. 
+T=They seem to come in sections, making longer and shorter space rockets. 
+
+T=Your mind starts working feverishly. 
+T=Did your section detach from Patty and Brad’s section? 
+
+T=Suddenly, the silence is shattered. 
+T=Your seat lock grinds open, and you are released from your harness. 
+T=You quickly spin around. Patty’s and Brad’s cars have disappeared! 
+T=If this is all part of the ride, maybe you should hop out. 
+T=But if the ride is broken, maybe you should wait for help. 
+Q=What will you do? > wait for help_92/hop out of the car_111
+

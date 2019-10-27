@@ -1,0 +1,21 @@
+T=NO! 
+
+T=At the last minute, you wrench the steering wheel hard to the left. 
+T=The side of your boat clears the tree with a sickening scrape. 
+
+T=You breathe a sigh of relief, but it ends in a groan. 
+T=A huge, sharp root below the water has just ripped into the bottom of your boat. 
+T=You hear a tearing sound, then gurgling as the cockpit starts to fill with water. 
+
+T=“Now what?” you mutter. 
+
+T=Then through the mist you spot another boat. But it’s some distance away. 
+
+T=“Hey, over here!” you cry out. 
+
+T=Did they hear you? You cry out again. Then you glance behind you. 
+T=More than half your boat is underwater — and you’re going down fast. 
+
+T=What should you do? Keep yelling for help? Or try to swim for safety? 
+Q=Make your choice — QUICK! > wait to be rescued_100/swim for it_56
+

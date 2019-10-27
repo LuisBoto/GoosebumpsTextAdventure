@@ -1,0 +1,20 @@
+T=You decide to wait. Someone should be here soon, you think. 
+T=But after waiting in the space shuttle for at least fifteen minutes, you’re not so sure. 
+T=No one has shown up to rescue you. 
+
+T=A chill runs down your back. 
+T=You feel as if a thousand pairs of eyes are watching you from the shadows. 
+
+T=Now that you’re accustomed to the darkness, you can see dozens of tracks leading in and out of the tunnel. 
+
+T=And then you hear a rustling sound. You freeze. 
+T=You listen hard. Could it be rats — or something worse? 
+
+T=You draw up your knees and wrap your arms around them tightly. 
+T=Then you hear a hissing sound — and you smell something odd. 
+T=It’s kind of a sweet smell — like heavy perfume. 
+T=You hold your nose because the smell is making you feel strange. 
+T=Dizzy. 
+T=Sick. 
+
+C=20

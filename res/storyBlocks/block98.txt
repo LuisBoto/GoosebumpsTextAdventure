@@ -1,0 +1,12 @@
+T=Well, looks can fool you. He is not a wimp. 
+
+T=And he’s mad — at you. 
+
+T=In the next moment, he scoops you up and hurls you at the cell wall. 
+T=His throw is so forceful, you smash right through the wall and soar out of the carnival grounds. 
+
+T=Congratulations! You escaped the Carnival of Horrors — but not in one piece. 
+
+
+E=THE END 
+C=0

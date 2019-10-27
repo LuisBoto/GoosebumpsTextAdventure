@@ -1,0 +1,11 @@
+T=What a sight! 
+
+T=You can hardly believe your eyes! 
+T=You scream again. 
+
+T=It’s Patty and Brad! 
+
+T=“Hey, guys, wait up!” you yell. 
+
+
+C=26

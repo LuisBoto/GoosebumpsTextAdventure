@@ -1,0 +1,25 @@
+T=The red-eyed beast leans against you now, pressing you hard against the wall. 
+T=The monster moves his face close to yours. 
+T=The jagged horns at the top of his head nick your cheeks. 
+
+T=You can’t bear it anymore. 
+T=You bring your hand up with all your might and shove his head away from yours. 
+
+T=As you watch in horror, the monster’s head rolls off its neck. 
+T=The head tumbles to the floor and lands at your feet. 
+
+T=The eyes glance up at you, and you notice his hideous lips moving. 
+T=“That hurt,” the head says. “That really h-h-...” 
+
+T=He never finishes. You’ve destroyed another robot! 
+
+T=“Almost out of here,” you whisper to yourself.
+T=Now all you have to do is slip by the crusty, alligator-snout creature guarding the door. 
+
+T=“You robots aren’t so tough,” you say to him with fake bravery. 
+
+T=“Oh, really?” the scaly beast croaks. 
+T=“Well, maybe not. But what makes you think that I am a robot?” 
+
+
+C=122

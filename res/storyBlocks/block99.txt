@@ -1,0 +1,17 @@
+T=“Okay, get me out of here,” you say to the dwarf. 
+T=“Did you help my friends, too?” 
+
+T=The dwarf does not answer. 
+T=He sprints off and you have to race to keep up with him. 
+T=Through a confusing maze of twisting tunnels. 
+T=You’re sure glad you have a guide. 
+
+T=The dwarf suddenly stops. 
+T=“That way,” he says gruffly, pointing straight ahead. 
+
+T=Before you can blink, he vanishes in a puff of smoke! 
+T=And you’re left standing in front of two doors. One red. One blue. 
+T=The red one has a sign that reads: danger. 
+T=The blue one has a sign that reads: big danger. 
+Q=Which door do you leave by? > red door_104/blue door_57
+

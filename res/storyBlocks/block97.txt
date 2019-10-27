@@ -1,0 +1,20 @@
+T=Your hand clamps around the can of Monster Blood in your pocket. 
+T=Quickly, you snap off the lid and the green gunk pours out. 
+
+T=“Look! It’s alive!” Brad shouts. 
+
+T=He’s right. 
+T=The Monster Blood oozes from the can, quivers, and appears to stretch and pull itself up! 
+T=Then it starts to roll and bounce, making horrible sucking sounds. 
+
+T=Great! It’s rolling into the crowd, sucking up everything in its path! 
+
+T=“Run!” Big A1 screams as the huge green ball rolls over the people in the crowd — 
+T=sucking them up with a loud plop. 
+
+T=Then the Monster Blood hits the side of the tent. It changes direction. 
+
+T=It’s coming after you! 
+
+
+C=129

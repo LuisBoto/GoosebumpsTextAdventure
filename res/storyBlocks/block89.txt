@@ -1,0 +1,24 @@
+
+T=Dr. Stone extends a long bony hand to pull you from the net. 
+T=When you peer into his face, his eyes roll up into his head. 
+
+T=“Pleased to meet you,” he rumbles. 
+
+T=Did he say, “Pleased to meet you” or “Pleased to eat you”? 
+T=You’re not sure, and you don’t want to hang around to find out. 
+
+T=I’ve got to get out of here, you think. 
+
+T=As the doctor lowers his hand a bit more, you wriggle your right foot free of the netting.
+T=If you give him one hard kick in the stomach, maybe you can make a run for the door. 
+
+T=But what about the monsters? Can you dodge them? 
+
+T=You change your mind. 
+T=“I’ll wait — play it cool until at least one of the beasts leaves the room,” you say to yourself. 
+
+T=Then you change your mind again. “No. I’d better make my escape now!” 
+
+T=The doctor looms inches away. And you’re still not sure what to do. 
+Q=You’d better decide fast! > kick the door and run_79/wait until a monster leaves_51
+

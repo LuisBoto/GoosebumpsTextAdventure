@@ -1,0 +1,16 @@
+T=... they’re swinging axes. 
+
+T=Your heart leaps into your throat. 
+T=The elves move to the roadside now — and they’re chopping down the horse-drawn carts ahead of you! 
+T=One cart splinters into a million pieces before your horrified eyes. 
+
+T=The elves continue on to the next cart. 
+T=Their sharp blades slice right through it! 
+
+T=Your horse keeps trotting up the steep path. 
+T=You’re headed right for the wildly chopping elves! 
+
+T=“Do something!” Patty cries. 
+
+
+C=23

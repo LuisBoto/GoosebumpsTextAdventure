@@ -1,0 +1,26 @@
+T=You’re staring at a sign that reads: 
+T=“World’s freakiest freak show!”
+T=The three of you gape at the pictures. 
+
+T=There’s the Three-Headed Man with the ugliest collection of faces you’ve ever seen. 
+T=And the Snake Lady — a young blond girl with a beautiful face and the body of a slithering snake. 
+
+T=“This is, uh — uh —” you start to say. 
+T=But you don’t finish. Because a large hand has come down on your shoulder. 
+T=Hard. 
+
+T=You slowly turn and gaze up at a huge man with shoulders wider than a refrigerator. 
+T=He has coal-black eyes with a thick mustache to match. 
+T=He looks strong enough — and mean enough — to pitch you over the fence with one hand. 
+
+T=“What are you doing?” his deep voice booms. 
+T=“You’re not allowed in here,” he says, pointing directly at you. 
+
+T=“We’re sorry,” you say, hoping you appear sorry and not just scared. 
+T=“We wanted to look around. That’s all. But we’ll leave. Right now.” 
+
+T=His eyes stare into yours. 
+T=He clamps both hands down on your shoulders and says, “You’re not going anywhere!” 
+
+
+C=4

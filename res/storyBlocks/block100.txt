@@ -1,0 +1,28 @@
+T=“Help! Help! Over here!” you scream, waving your arms wildly in the air. 
+
+T=“Hold on!” a deep voice answers through the heavy mist. 
+
+T=The boat turns and speeds toward you. 
+T=As it nears, the voice calls out again. “Jump! Jump over!” 
+
+T=Jump? Is he crazy? Can you really jump onto a moving boat? 
+
+T=The boat is coming closer now. Closer. Closer. You stand up. 
+T=You bend your knees. You’re about to jump — and the boat speeds right past you. 
+
+T=But wait! It is circling back now in a nice, slow approach. 
+T=It glides up to you, and gigantic hands pull you onto the boat. 
+
+T=“You saved me!” you cry. 
+
+T=You gaze up and gasp in surprise. 
+T=The man in the other boat isn’t a man — it’s a monster with a drooling snout and rows of jagged teeth. 
+
+T=“Save you? Save you?” the monster repeats. 
+
+T=His red eyes light up. “Save you ... good idea,” he says. 
+T=“I won’t eat you now. I’ll save you for a midnight snack!” 
+
+
+E=THE END (Burp!) 
+C=0

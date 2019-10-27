@@ -1,0 +1,30 @@
+T=You sit down on the slide and push off. 
+T=The world tilts as you plunge down. Down, down, down. 
+
+T=You’re scared. But you can’t help feeling that this is kind of cool! 
+T=Sliding and swirling in the darkness. 
+
+T=Until you hear the screams. The eerie screams that follow you as you twist and turn. 
+
+T=Your heart starts pounding wildly. 
+T=Oh, no! You must have picked the Doom Slide. You’re going to slide forever! 
+
+T=And then, bump. 
+
+T=A chute opens up. You hit the ground hard. 
+T=You tumble over and over and finally stop. 
+
+T=You lie on the ground. Panting. 
+
+T=You’re outside! 
+
+T=You scramble to your feet and gaze around. 
+
+T=You hear laughter. It seems to be coming from the bright pink building a few feet in front of you. 
+
+T=You walk over to its big pink door and press your ear against it. 
+
+T=Yes. The laughter is definitely coming from inside. 
+
+
+C=117
