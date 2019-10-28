@@ -1,8 +1,8 @@
 # GoosebumpsTextAdventure
 Interactive rendition of the gamebook "Give yourself Goosebumps: Escape from the Carnival of Horrors".
 
-## BEWARE!! 
-### DO NOT READ THIS BOOK FROM BEGINNING TO END!
+## Beware!! 
+### Do not read this book from beginning to end!
 "Give yourself Goosebumps" is a series of gamebooks from the 90's aimed at a juvenile audience, in which
 the reader is able to choose how the story develops by making choices. These are presented
 as simple games or plain decisions that ultimately dictate which pages the reader must turn to. 
